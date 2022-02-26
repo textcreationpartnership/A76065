@@ -1,0 +1,2842 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Man's monitor, or, The free-school of virtue; holding forth the duties required and sins forbidden in the two tables of the law. In easie English vers [sic]. Fit to bee implanted in the memories of all Christian children. / By W. Barton preacher of God's word at North-winfield in Darby-shire.</title>
+            <author>Barton, William</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76065</idno>
+            <idno type="STC">Wing B1002A</idno>
+            <idno type="STC">ESTC R172281</idno>
+            <idno type="EEBO-CITATION">47682802</idno>
+            <idno type="OCLC">ocm 47682802</idno>
+            <idno type="VID">172760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172760)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2648:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Man's monitor, or, The free-school of virtue; holding forth the duties required and sins forbidden in the two tables of the law. In easie English vers [sic]. Fit to bee implanted in the memories of all Christian children. / By W. Barton preacher of God's word at North-winfield in Darby-shire.</title>
+                  <author>Barton, William</author>
+               </titleStmt>
+               <extent>[8], 45, [2].   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.D. for T. Underhill; and are to bee sold at the Blue Anchor in Pau'ls [sic] Church-yard.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: prelim. p. [8].</note>
+                  <note>Imperfect: cropped and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: Eton College. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ten commandments --  Early works to 1800.</term>
+               <term>Ten commandments --  Juvenile literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172760:1"/>
+            <pb facs="tcp:172760:1" rendition="simple:additions"/>
+            <p>MAN'S MONITOR, OR The Free-ſchool of VIRTUE; Holding forth the <hi>Duties</hi> required, and <hi>Sins</hi> forbidden in the two Tables of the LAW.</p>
+            <p>In eaſie ENGLISH VERS. Fit to bee implanted in the memories of all Chriſtian Children.</p>
+            <p>
+               <hi>By</hi> W. BARTON <hi>Preacher of God's Word at</hi> North-winfield <hi>in</hi> Darby-ſhire.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 22.6.</hi>
+               </bibl>
+               <p>
+                  <hi>Train up a child in the way that hee ſhould go, and when hee is old, hee will not depart from it.</hi>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>Ovid.</hi>
+                  </bibl> Adde quod ingenuas didiciſſe fideliter artes, Emollit mores nec ſinit eſſe feros.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>W. D.</hi> for <hi>T. Underhill;</hi> and are to bee ſold at the <hi>Blue Anchor</hi> in <hi>Pau'ls Church-yard.</hi> 1655.</p>
+         </div>
+         <div type="commendation">
+            <pb facs="tcp:172760:2"/>
+            <pb facs="tcp:172760:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172760:3"/>
+            <p>
+               <seg rend="decorInit">T</seg>He Author of this little Book was formerly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Preacher in this City, well known, and much e<g ref="char:EOLhyphen"/>ſteemed by his godly brethren in the Ministry. Hee hath put forth a New <hi>Tranſlation</hi> of the <hi>Pſalms,</hi> which firſt and laſt hath obtained the publick Approbation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and atteſt of four or five-ſcore eminent Ministers in the City and Country. For my part I do heartily wiſh that the d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fects of the Old <hi>Pſalm-book</hi> were now laied to heart, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſo good a Tranſlation as this Author's might bee un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>verſally received in the room of it. The deſign of the e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſuing Book is to ſet down in Verſ not only the duties that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> required, but alſo the Vices which are forbidden in the <hi>Te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Commandements.</hi> Which thing hee hath ſo well pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>formed, that hee hath manifeſted himſelf both a g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Poët and a good Divine. I commend this together with Pſalm-book to your peruſall, and reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your ſervant in the work of the Miniſtry</hi> Edm. Calamy.</signed> 
+               <dateline>
+                  <date>Sep. <hi>27. 1655.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:172760:3"/>
+            <head>THE DEDICATION</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">L</seg>Ord I preſent thee on my bended knee</hi>
+               </l>
+               <l>
+                  <hi>With that choice vow which I have vow'd to thee,</hi>
+               </l>
+               <l>
+                  <hi>The praiſ is thine who gav'ſt the power to mee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>At firſt, methoughts, I ſaw what craggy rocks</hi>
+               </l>
+               <l>
+                  <hi>Were in my way, what Labyrinths and locks;</hi>
+               </l>
+               <l>
+                  <hi>What ſhadie woods, what mighty bars and blocks.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>But</hi> Jacob<hi>'s Ladder ſtanding ſtill upright,</hi>
+               </l>
+               <l>
+                  <hi>The clue of Scriptures, and thy ſunbeams bright</hi>
+               </l>
+               <l>
+                  <hi>Made eaſie all, and open in thy ſight.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>But Lord is this the champion? am I com</hi>
+               </l>
+               <l>
+                  <hi>To view a vaſt, a vast and dreadfull ſum</hi>
+               </l>
+               <l>
+                  <hi>Of ſin contracted from my Mother's womb?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>So huge an Army marſhal'd in array</hi>
+               </l>
+               <l>
+                  <hi>Against a ſinner, ſure, muſt needs diſmay,</hi>
+               </l>
+               <l>
+                  <hi>For plainly ſin portend's a judgment day.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>What wilt thou bate mee Lord of this large ſcroll?</hi>
+               </l>
+               <l>
+                  <hi>I ask in vain unleſs I ask the whole,</hi>
+               </l>
+               <l>
+                  <hi>Since one unpardon'd ſin will ſlay the ſoul.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>If one condemned a whole world of men,</hi>
+               </l>
+               <l>
+                  <hi>One ſin (I ſay) at firſt, how much more then</hi>
+               </l>
+               <l>
+                  <hi>Shall a whole world of ſin one man condemn?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I thank my God, through Jeſus Chriſt my Lord,</hi>
+               </l>
+               <l>
+                  <hi>That, us to Pardon, freely can afford</hi>
+               </l>
+               <l>
+                  <hi>To take my ſins clean off, clean of record.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:172760:4"/>
+            <pb facs="tcp:172760:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172760:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172760:6"/>
+            <lg>
+               <l>
+                  <hi>This Lamb of God took worlds of ſins away,</hi>
+               </l>
+               <l>
+                  <hi>And ſurely hee was God that would defray</hi>
+               </l>
+               <l>
+                  <hi>So vast a debt, ſo rich a ranſom pay.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Doubtleſs God would without a Mediator</hi>
+               </l>
+               <l>
+                  <hi>Forgive our debt, and heal our ſinfull nature,</hi>
+               </l>
+               <l>
+                  <hi>Rather than give that glory to a creature.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>God was in Chriſt to reconcile mankinde,</hi>
+               </l>
+               <l>
+                  <hi>He might leav trials, but no curſ behinde;</hi>
+               </l>
+               <l>
+                  <hi>Only men out of Chriſt no comfort finde.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Yet ſtill to griev my God I alſo griev,</hi>
+               </l>
+               <l>
+                  <hi>Faith work's by fruits; O let mee thus believ,</hi>
+               </l>
+               <l>
+                  <hi>And labor all good actions to atchiev.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This gild's again thy grace to thine Elect,</hi>
+               </l>
+               <l>
+                  <hi>Who can fulfil the Law in no reſpect,</hi>
+               </l>
+               <l>
+                  <hi>Yet God accept's, and pardon's our defect.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O let mee ſtill upon my pardon look,</hi>
+               </l>
+               <l>
+                  <hi>And bee the firſt to practiſe this my book,</hi>
+               </l>
+               <l>
+                  <hi>Sharpning the ſpur, but ſhunning bait and hook.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O let my labors in exacteſt verſ</hi>
+               </l>
+               <l>
+                  <hi>The ample praiſes of my God reherſ,</hi>
+               </l>
+               <l>
+                  <hi>And fit all cuſtomers with rich commerce.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Then ſhould I vow another vow as free,</hi>
+               </l>
+               <l>
+                  <hi>Of all my Incom a full tenth to thee:</hi>
+               </l>
+               <l>
+                  <hi>And this my Will and Teſtament ſhould bee.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:172760:6"/>
+            <head>The APOLOGIE To the Reverend and Religious <hi>School<g ref="char:EOLhyphen"/>maſters</hi> of the <hi>Engliſh</hi> Nation.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hat Scholar in the world (moſt learned Sirs!)</l>
+               <l>Ow's not great honors to his Schoolma<g ref="char:EOLhyphen"/>ſters?</l>
+               <l>And which of all the children that wee breed</l>
+               <l>To your Inſtructions give's not greateſt heed?</l>
+               <l>And what inſtructions can you give ſo great</l>
+               <l>As the Religious letters you repeat?</l>
+               <l>And what more likely to bee helpfull for</l>
+               <l>The rivetting of them, than this Monitor?</l>
+               <l>Which that it may both profit much and pleaſ,</l>
+               <l>Is interlac'd with various ſentences,</l>
+               <l>That once read over leav's ſom print behinde,</l>
+               <l>And, got by heart, will never out of minde;</l>
+               <l>But bee a ſure remembrancer within</l>
+               <l>To help on virtue, and to hinder ſin;</l>
+               <l>And here or there doth comprehend or hint</l>
+               <l>More points then uſually are put in Print.</l>
+               <l>The Creed alone for knowledge yield's a Sea</l>
+               <l>Fit to raiſ queſtions on extempore;</l>
+               <l>An inſtrument that may not well bee miſs'd,</l>
+               <l>Or by the Scholar, or the Catechiſt.</l>
+               <l>Let none object 'tis hard to underſtand,</l>
+               <l>You are the ſure Interpreters at hand:</l>
+               <l>Beſides it harp's on ſcriptures that will ſhow,</l>
+               <l>And, if not now, they ſhall hereafter know.</l>
+               <l>Let none object and ſay, it is too light,</l>
+               <l>God's graver ſervants have brought in more ſlight:</l>
+               <l>By cock a pie and Mouſ-foot <hi>Dent</hi> bring's in,</l>
+               <l>Examples to expreſs forbidden Sin:</l>
+               <pb facs="tcp:172760:7"/>
+               <l>The Reverend Biſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> inſtanceth</l>
+               <l>How ſome are guilty of untimely death:</l>
+               <l>Hee talk's of narrow ſtairs built to ſom Room,</l>
+               <l>And children ſmother'd in their mother's womb</l>
+               <l>By cloathing, dancing, or ſom ſuch diſquiet,</l>
+               <l>Or by miſgovern'd and unwholſom diet.</l>
+               <l>Beſides, the fault's not ours theſe ſins to name,</l>
+               <l>Let the Committers of them bear the blame:</l>
+               <l>What if the watchman name the boggs and dirt</l>
+               <l>The paſſengers ſhould ſhun, can this do hurt?</l>
+               <l>Conſcience of ſin may make a ſin withſtood,</l>
+               <l>And by God's bleſſing do a world of good.</l>
+               <l>Som never know what ſins and duties are</l>
+               <l>Unleſs wee name them in particular.</l>
+               <l>Let none object wee oft tautologize</l>
+               <l>And yet no perfect catalogue comprize;</l>
+               <l>Or that wee are far too prolix and large;</l>
+               <l>For anſwer to the firſt part of the charge,</l>
+               <l>Our work admit's of augmentation ſtill,</l>
+               <l>Let him that find's a hole thruſt in his quill:</l>
+               <l>As for exuberance, it is no ſore,</l>
+               <l>And ſom ſins do not break one law, but more.</l>
+               <l>And ſom the oftner inculcation need</l>
+               <l>That by more warning men may take more heed</l>
+               <l>Happy the Chriſtian that hath that or this</l>
+               <l>Alwayes to check him when hee doth amiſs.</l>
+               <l>Nor let them ſay it is too flat and plain,</l>
+               <l>Why ſhould it bee a monitor in vain?</l>
+               <l>Nor blame's it any man unleſs hee err,</l>
+               <l>If guilty, 'tis a good remembrancer.</l>
+               <l>If haughty youth or froward age ſhall ſpit</l>
+               <l>At theſe Monitions, childhood will ſubmit:</l>
+               <l>To theſe direct your ſpeech, as I my pen,</l>
+               <l>And by God's bleſſing wee ſhall build up men.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:172760:7"/>
+            <head>The PREPARATORY. To the Young SCHOLAR at School.</head>
+            <lg>
+               <l>
+                  <hi>MY little Child, chief of thy Parent's Goods,</hi>
+               </l>
+               <l>
+                  <hi>That grow'st among the tender plants and buds;</hi>
+               </l>
+               <l>
+                  <hi>Hearken to mee that act a Parent's part</hi>
+               </l>
+               <l>
+                  <hi>To diſcipline thee with Diviner Art.</hi>
+               </l>
+               <l>
+                  <hi>Mark how I lead thee quite beyond the Schools</hi>
+               </l>
+               <l>
+                  <hi>To prove a man, and practice all my Rules.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>FIrst, Read this</hi> Monitor, <hi>then get by heart,</hi>
+               </l>
+               <l>
+                  <hi>And oft reherſ it as thou doſt thy part:</hi>
+               </l>
+               <l>
+                  <hi>Then hearken to thy Maſter's Expoſition,</hi>
+               </l>
+               <l>
+                  <hi>And chiefly that which ſuit's with thy Condition.</hi>
+               </l>
+               <l>
+                  <hi>As, firſt abandon negligence and ſloth,</hi>
+               </l>
+               <l>
+                  <hi>Abhor a lie, and tremble at an oath;</hi>
+               </l>
+               <l>
+                  <hi>Shun Faith, and Troth, by 'r Lady, and the Maſs,</hi>
+               </l>
+               <l>
+                  <hi>'Tis ſin and ſhame to let ſuch ſpeeches paſs.</hi>
+               </l>
+               <l>
+                  <hi>Shun quarrelling, leſt paſſion ſhould bee ſtir'd,</hi>
+               </l>
+               <l>
+                  <hi>And ſcorn to give the leaſt opprobrious word:</hi>
+               </l>
+               <l>
+                  <hi>To hear ſome foul-mouth'd Brats would make one gather</hi>
+               </l>
+               <l>
+                  <hi>The unclean ſpirit were their ghoſtly father.</hi>
+               </l>
+               <l>
+                  <hi>Never imploy thy wits to ſcoff and jeer,</hi>
+               </l>
+               <l>
+                  <hi>Nor let thy pen in wanton works appear:</hi>
+               </l>
+               <l>
+                  <hi>The Ribauld Poët is a ſordid Swine,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe his Art ſhould make him all Divine.</hi>
+               </l>
+               <l>
+                  <hi>With honeſt Recreations whet thy wit,</hi>
+               </l>
+               <l>
+                  <hi>But let no baſeneſs prompt or poyſon it:</hi>
+               </l>
+               <l>
+                  <hi>The lord of Miſrule with his ſports uncivil</hi>
+               </l>
+               <l>
+                  <hi>Is fit to make a Bearward for the Divel.</hi>
+               </l>
+               <l>
+                  <hi>Eſteem of Sundayes, not for ſport and play</hi>
+               </l>
+               <l>
+                  <hi>As Thurſdayes, but as Repetition day:</hi>
+               </l>
+               <l>
+                  <hi>Then do the Sabbath duties with delight,</hi>
+               </l>
+               <l>
+                  <hi>A conſtant Zealot still this way ſtand's right.</hi>
+               </l>
+               <l>
+                  <hi>Hee that is careleſs and profane herein</hi>
+               </l>
+               <l>
+                  <hi>Run's headlong into all exceſs of ſin.</hi>
+               </l>
+               <pb facs="tcp:172760:8"/>
+               <l>
+                  <hi>In ſecret place by practice learn to pray</hi>
+               </l>
+               <l>
+                  <hi>Meer want will teach a beggar what to ſay:</hi>
+               </l>
+               <l>
+                  <hi>Sin yield's confeſſion, for thou know'ſt thy pranks,</hi>
+               </l>
+               <l>
+                  <hi>And bleſſings teach the gratefull to give thanks:</hi>
+               </l>
+               <l>
+                  <hi>But hee that would bee prompt in ſupplication</hi>
+               </l>
+               <l>
+                  <hi>Muſt oft uſe practice and premeditation.</hi>
+               </l>
+               <l>
+                  <hi>Inquire for Chriſt, learn who and what hee is,</hi>
+               </l>
+               <l>
+                  <hi>His double Natures, and his Offices:</hi>
+               </l>
+               <l>
+                  <hi>Hee that, like David, or young Samuel,</hi>
+               </l>
+               <l>
+                  <hi>Know's Chriſt in childhood, ſhall in age excel:</hi>
+               </l>
+               <l>
+                  <hi>A young Saint and a ſound, I dare preſage,</hi>
+               </l>
+               <l>
+                  <hi>Shall ſhine like to an Angel in his age.</hi>
+               </l>
+               <l>
+                  <hi>And now I leav thee with my last advice,</hi>
+               </l>
+               <l>
+                  <hi>Hoping to ſee thee once in Paradiſe.</hi>
+               </l>
+               <l>
+                  <hi>If thou muſt leav both ſchool and ſcholarſhip,</hi>
+               </l>
+               <l>
+                  <hi>And taſte of learning but a little ſip,</hi>
+               </l>
+               <l>
+                  <hi>Read godly Books, firſt Biſhop</hi> Uſher's <hi>beſt</hi>
+               </l>
+               <l>
+                  <hi>For Science, and for Conſcience</hi> Baxter's <hi>Reſt:</hi>
+               </l>
+               <l>Dent <hi>for the plain man,</hi> Hilderſham, <hi>and</hi> Dod;</l>
+               <l>
+                  <hi>And above all books elſ, the Book of God.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>W. B.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA;</head>
+            <p>Page 3. line 18. for ſince read ſin. p. 5. l. 17. of r. or. p. 7. l. 15. was r. wee. p. 14. l. 26. J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bbled r. Babbled. p. 18. l. 7. Who r. For. l. laſt Officers r. Officers. p. 19. l. 1. Abitrator r. Arbitra<g ref="char:EOLhyphen"/>tor. p. 30, l. 24. love r. love's. p. 31. l. 29. pretenſed r. prepen<g ref="char:EOLhyphen"/>ſed. p. 33. l. 9. fit r. fil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'s. l. 12. end r. and p. 41. l. 11. beſer r. baſer.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb n="1" facs="tcp:172760:8"/>
+            <head>MAN'S MONITOR;</head>
+            <div type="poem">
+               <head>
+                  <hi>DUTIES and TRESPASSES implied in the Firſt</hi> COM<g ref="char:EOLhyphen"/>MANDMENT.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">T</seg>He firſt <hi>Command</hi> require's the inward Man,</l>
+                  <l>With all the power that poſſibly he can,</l>
+                  <l>To give attendance alwaies on the Lord,</l>
+                  <l>In Trinitie and Unitie ador'd:</l>
+                  <l>To do each dutie in our Saviour's merit,</l>
+                  <l>And by aſſiſtance of his ſacred Spirit.</l>
+                  <l>It binde's to bleſſed Virtues touching God,</l>
+                  <l>As filial fear, and reverence of his rod:</l>
+                  <l>Spiritual knowledg, as the only ſcope</l>
+                  <l>Of all our skill; and heaven-aſſuring hope;</l>
+                  <l>Holie rejoicing, and ſtrong confidence,</l>
+                  <l>Unwearied patience, and true penitence;</l>
+                  <l>Zeal for his glorie kindled with good will,</l>
+                  <l>And earneſt longing for his preſence ſtill;</l>
+                  <l>Attending for the comming, and the call</l>
+                  <l>Of Chriſt our Lord and ſoveraign judg of all.</l>
+                  <l>And among virtues (as the very chief)</l>
+                  <l>It bind's unto particular belief</l>
+                  <l>Of ſins remiſſion, and our ſouls ſalvation</l>
+                  <l>By Chriſt our Saviour's death and mediation.</l>
+                  <pb n="2" facs="tcp:172760:9"/>
+                  <l>To gratefull thoughts, and great humilitie,</l>
+                  <l>To fervent love without hypocriſie:</l>
+                  <l>In which affections nothing may partake,</l>
+                  <l>But allwaies under him, and for his ſake.</l>
+                  <l>It alſo binde's to outward adoration,</l>
+                  <l>Profeſſion of God's Name, and invocation:</l>
+                  <l>Our riſing and repoſing thoughts muſt bee</l>
+                  <l>Beſtow'd on God: then muſt wee bow the knee,</l>
+                  <l>And humbly offer him, with daily care,</l>
+                  <l>The ſacrifices of our ſolemn prayer.</l>
+                  <l>Not naming heatheniſh Gods without diſdain,</l>
+                  <l>Nor any Cuſtomes that to them pertain,</l>
+                  <l>Their temples, altars, images muſt bee</l>
+                  <l>Abominated in a high degree.</l>
+                  <l>Only the true God's beeing ours in Chriſt</l>
+                  <l>Should draw up our affections to the high'ſt.</l>
+                  <l>It bind's us to beleev what ſcripture ſaith</l>
+                  <l>Touching the pinciples of Chriſtian faith:</l>
+                  <l>One true eternal God, unchang'able,</l>
+                  <l>Moſt holy, wiſe, juſt, mighty, mercifull;</l>
+                  <l>Inviſible, immenſe, and infinite,</l>
+                  <l>And having all things alwaies in his ſight,</l>
+                  <l>Incomprerenſible, in perſons three,</l>
+                  <l>For father, ſon, and holy Ghoſt they bee.</l>
+                  <l>The fountain of this perſonalitie</l>
+                  <l>Beget's the Word, who work's from his ſupplie;</l>
+                  <l>Both theſe produce the Spirit, which proceed's</l>
+                  <l>And work's from both; &amp; they by him their deed</l>
+                  <l>So non's afore, but, in this order rare,</l>
+                  <l>All Coëternal, and Coëqual are.</l>
+                  <l>Predeſtination, and foreſeen decree,</l>
+                  <l>How for God's glorie every thing ſhall, bee;</l>
+                  <l>Creätion of the world in ſix daies ſpace,</l>
+                  <l>All Angels firſt, Man in the lateſt place:</l>
+                  <l>Perpetual Providence; the helpleſs fall</l>
+                  <l>Of ſinning Angels; ſome ne're ſin'd at all,</l>
+                  <pb n="3" facs="tcp:172760:9"/>
+                  <l>Theſe were elect, and praiſ their Maker ſtill,</l>
+                  <l>And with great quickneſs execute his will;</l>
+                  <l>Theſe wait on Saints, and bear them in their arm,</l>
+                  <l>Thoſe, by permiſſion, tempt, accuſe, and harm,</l>
+                  <l>Reſerv'd in chains of darkneſs (which diſmay)</l>
+                  <l>Untill the judgment of the general day.</l>
+                  <l>Man's innocence, and happineſs at firſt,</l>
+                  <l>That Covenant broke; and all therein accurſt:</l>
+                  <l>Original corruption, Actual ſin;</l>
+                  <l>Tranſgreſſion cenſur'd; and thus death came in.</l>
+                  <l>The law ſo plainly written in man's heart</l>
+                  <l>Obliterated for the greater part.</l>
+                  <l>The earthly paradiſe quite loſt and gone,</l>
+                  <l>And all mankind ſlain by the ſin of one.</l>
+                  <l>A better Covenant wrought man's reſtoration;</l>
+                  <l>By Chriſt the ſecond perſon's incarnation:</l>
+                  <l>Conceiv'd in Virgins womb by heavenly powers,</l>
+                  <l>His man-hood (ſince excepted) juſt like ours.</l>
+                  <l>To th' ſecond perſon joyn'd immediately</l>
+                  <l>And mediately to the reſt thereby;</l>
+                  <l>Making both natures but one perſon ſtill,</l>
+                  <l>Though having both divine and humane will:</l>
+                  <l>Divine and humane properties diſtinct,</l>
+                  <l>Man-God, God-man, both theſe rogether link't.</l>
+                  <l>Equall with God in his ſpirituall Nature,</l>
+                  <l>Inferiour to him as the Mediator:</l>
+                  <l>Yet in both natures (not in man's alone)</l>
+                  <l>Far above Angels in the higheſt throne.</l>
+                  <l>His perfect life and bleſſed doctrine taught,</l>
+                  <l>Back'd with a world of wonders which he wrought:</l>
+                  <l>His judgment, paſſion, buriall, Reſurrection,</l>
+                  <l>Aſcenſion, ſeſſion (in his bright perfection)</l>
+                  <l>And interceſſion, there, at God's right hand,</l>
+                  <l>And having all things under his Command.</l>
+                  <l>The univerſal Churches ſure election,</l>
+                  <l>Calling, adoption, triall, and correction,</l>
+                  <pb n="4" facs="tcp:172760:10"/>
+                  <l>Redounding to their good: Juſtification,</l>
+                  <l>Sanctification, and ſure preſervation.</l>
+                  <l>The ſeal of Baptiſm, and the ſacred Cup,</l>
+                  <l>With many an Ordinance to build them up,</l>
+                  <l>All to be guided by the Scripture's light,</l>
+                  <l>Which ſaints did pen, and God's own ſpirit indi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>The common call and gifts of many a one</l>
+                  <l>Never built up unto perfection.</l>
+                  <l>Immortal ſouls of ſaints celeſtial bliſs,</l>
+                  <l>Impriſonment of theirs that liv'd amiſs:</l>
+                  <l>The Reſurrection; and great judgment day,</l>
+                  <l>Where Chriſt in chief, and all the ſaints bear ſway</l>
+                  <l>The world that was accurſt (for man miſled)</l>
+                  <l>Purged by fire, and re-eſtabliſhed.</l>
+                  <l>Then reprobates muſt pack to endleſs pain,</l>
+                  <l>And ſaints in endleſs glory ſhall remain.</l>
+                  <l>He that diſcern's not theſe, nor cares to ſee,</l>
+                  <l>Condemn'd of wilfull ignorance ſhall bee:</l>
+                  <l>He that believe's not this, his ſin goe's higher,</l>
+                  <l>For unbelievers have made God a liar.</l>
+                  <l>Theſe then are ſins, of which wee muſt repent</l>
+                  <l>Forbidden by the firſt Commandement.</l>
+                  <l>The indigence of virtues here that ſhine,</l>
+                  <l>And negligence of duties ſo divine:</l>
+                  <l>Original corruption; Atheiſm, error,</l>
+                  <l>Benummed conſcience, ſlaviſh fear, and terror:</l>
+                  <l>All bold repoſing in ſecuritie,</l>
+                  <l>And baſe revolting by Apoſtacie;</l>
+                  <l>Lukewarmneſs, coldneſs, ignorance, deſpair,</l>
+                  <l>Forgetfulneſs of God, and carking care:</l>
+                  <l>Diſtruſt, ingratitude, impatience,</l>
+                  <l>Preſumption, blaſphemie, impenitence;</l>
+                  <l>Profaneneſs, pride, and virtues counterfeit,</l>
+                  <l>Raſh zeal, and faith upon wrong objects ſet;</l>
+                  <l>Spiritual pride muſt punctually be noted,</l>
+                  <l>Which ſteal's God's glory whiles wee ſeem deve</l>
+                  <pb n="5" facs="tcp:172760:10"/>
+                  <l>And that proud thought, w<hi rend="sup">ch</hi> in men's boſom lurk's,</l>
+                  <l>Of beeing ſaved by our own good works.</l>
+                  <l>Inordinate affection, idle mirth,</l>
+                  <l>And carnal confidence in things on earth,</l>
+                  <l>For all that ſteal's our hearts from God moſt high</l>
+                  <l>Produceth primitive Idolatrie.</l>
+                  <l>Som truſt to the phyſician for their health;</l>
+                  <l>For their proviſion, moſt men truſt their wealth:</l>
+                  <l>Som truſt to princes favours, and to friends,</l>
+                  <l>On plots and projects many a ſoul depend's:</l>
+                  <l>Som truſt to ſtrength of horſ, and numerous hoſts,</l>
+                  <l>And many of their own ſtrength make their boaſts:</l>
+                  <l>And the chief idols, that do ſouls devour,</l>
+                  <l>Are money, beautie, worldly pomp, and power,</l>
+                  <l>Inchanting pleaſure, and there's one more odd,</l>
+                  <l>The greedie bellie every glutton's God.</l>
+                  <l>Thus falſ affiance of affection baſe</l>
+                  <l>Set creatures up in the creätors place.</l>
+                  <l>Voluptuous riot, ſports, and bellie-cheer,</l>
+                  <l>With ſenſual feeding, void of God's true fear:</l>
+                  <l>When men with healths profane, do, at their feaſts,</l>
+                  <l>Make Gods of others, or themſelvs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ruit beaſts;</l>
+                  <l>As if at Bacchus or Baal Peor's Table;</l>
+                  <l>Theſe are Idolatries abominable.</l>
+                  <l>Sun moon &amp; ſtars brave Gods have been reported,</l>
+                  <l>By ſom the ſaints and Angels have been courted.</l>
+                  <l>And mortall Gods are too much worſhipped</l>
+                  <l>By baſe dependance, flatterie, fear and dread.</l>
+                  <l>And ſom have been ſeduced and intic't</l>
+                  <l>To worſhip Luciferian Antichriſt:</l>
+                  <l>Bow to his breaden God the mungrel Maſs,</l>
+                  <l>Which doth all other idols far ſurpaſs,</l>
+                  <l>Far worſ then paſs over or Manna kept,</l>
+                  <l>Whereon (next morning) crawling Vermin crept:</l>
+                  <l>He that adore's ſuch Idols as theſe bee</l>
+                  <l>Break's this Commandment in a high degree.</l>
+                  <pb n="6" facs="tcp:172760:11"/>
+                  <l>As for the heatheniſh Gods this doth condemn</l>
+                  <l>The leaſt regard or hanking after them:</l>
+                  <l>No Chriſtian may bee guiltie of ſuch evils,</l>
+                  <l>For they that worſhip ſuch Gods, worſhip devils:</l>
+                  <l>No leſs do they that practiſe forcerie</l>
+                  <l>And fortune-telling-vain-Aſtrologie,</l>
+                  <l>Magicians, witches, charmers, Conjurers,</l>
+                  <l>For theſe are very groſs Idolaters.</l>
+                  <l>All that aſcribe God's workes to ſuch as theſe,</l>
+                  <l>As blaſtings, tempeſts, plagues, and ſickneſſes</l>
+                  <l>Or to blind fortune blindly reckon things,</l>
+                  <l>To curſed ſpeakings, charms, and conjurings,</l>
+                  <l>Or ſeek to ſuch for ſuccour or ſupply,</l>
+                  <l>Or for inquirie, or recovery,</l>
+                  <l>To know their fortune, or to find out thievs,</l>
+                  <l>Or get relief when pain or ſickneſs griev's,</l>
+                  <l>Whether for man or beaſt, for flock or fold,</l>
+                  <l>In danger or diſtteſs of young or old,</l>
+                  <l>To cure diſeaſ by paper, ſpell, or charm,</l>
+                  <l>To drive out devils, or defend from harm,</l>
+                  <l>To ſcape from Gunſhot, or, from ſhore to ſhore,</l>
+                  <l>To buy a wind to waft them ſwiftly o're.</l>
+                  <l>(This they call going to wiſe-men forſooth,</l>
+                  <l>But is a going to the devil in truth;)</l>
+                  <l>They greatly derogate from God moſt high</l>
+                  <l>And perpetrate moſt foul idolatry.</l>
+                  <l>Yet Satan work's, but, while he ſeem's to raign,</l>
+                  <l>Wee muſt adore the power that hold's his chain.</l>
+                  <l>Enthuſiaſtical and and bold pretenders</l>
+                  <l>To Revelations here are made offenders.</l>
+                  <l>The Renegado that turn's Turk or Papiſt,</l>
+                  <l>Quaker, or familiſt, goes near an Atheiſt.</l>
+                  <l>And by his new Religion mak's it known</l>
+                  <l>Hee either hath another God, or none.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="7" facs="tcp:172760:11"/>
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the Second</hi> Commandment.</head>
+               <lg>
+                  <l>THe Duties of the ſecond ſacred Law</l>
+                  <l>Are hearing of the word with reverent awe:</l>
+                  <l>Pray'r, by Confeſſion to the Everliving,</l>
+                  <l>Humble petition, and ſincere thankſgiving.</l>
+                  <l>All theſe to bee perform'd by every one</l>
+                  <l>In publick place, in private, and alone.</l>
+                  <l>A form of pray'r is fit for their advance</l>
+                  <l>That want extemporary utterance;</l>
+                  <l>Wee are to matter, not to method ti'd,</l>
+                  <l>The form our Saviour gave muſt bee our guide.</l>
+                  <l>Firſt ſetting forth God's glorious Attributes</l>
+                  <l>Of might and mercy, and their bleſſed fruits:</l>
+                  <l>Beleeving hee can help that dwel's above,</l>
+                  <l>And will do as a father out of love,</l>
+                  <l>That was through Chriſt (who doth this grace diſ<g ref="char:EOLhyphen"/>play)</l>
+                  <l>With reverence and confidence may pray:</l>
+                  <l>That worthie inſtruments may ſtill be found</l>
+                  <l>In Church and State, and God by them renown'd,</l>
+                  <l>Our hearts even fill'd with heaven: our tongues ap<g ref="char:EOLhyphen"/>pli'd</l>
+                  <l>To edifie, and God bee glorifi'd.</l>
+                  <l>And that our lives before the world may ſhine</l>
+                  <l>With glittering beams of graces moſt divine.</l>
+                  <l>That Saints be kept, &amp; Sathan's kingdom quel'd,</l>
+                  <l>Falſ doctrines, errors, Antichriſts expel'd:</l>
+                  <l>The Goſpel ſpread, and proſper'd every where,</l>
+                  <l>And Chriſtians labouring (each man in his ſphere)</l>
+                  <l>For Jew and Gentiles call, and confirmation,</l>
+                  <l>Our happy end, and final full ſalvation.</l>
+                  <l>That wee with wiſdom may be all inſpir'd,</l>
+                  <l>To know God's will in what hee hath requir'd:</l>
+                  <l>Our backword natures, that are dark and dull,</l>
+                  <l>Inflam'd with zeal to do it to the full;</l>
+                  <pb n="8" facs="tcp:172760:12"/>
+                  <l>And what hee pleaſeth of himſelf to do</l>
+                  <l>Wee may contentedly ſubmit unto.</l>
+                  <l>That wee, depending on God's providence</l>
+                  <l>By lawfull means, and daily diligence,</l>
+                  <l>Without ambition, avarice, or ſtrife,</l>
+                  <l>May have all needfull comforts of this life</l>
+                  <l>For us and ours: Not envying great or ſmall</l>
+                  <l>But helping thoſe that in affliction fall.</l>
+                  <l>That wee confeſſing our vile ſinfull nature,</l>
+                  <l>Acts, and neglects againſt our great creätor;</l>
+                  <l>Not having ought to pay, or ought that's good</l>
+                  <l>But of his gift; may flee to Chriſt his blood</l>
+                  <l>For grace, and peace, and pardon, whiles wee live</l>
+                  <l>With peaceful minds addicted to forgive.</l>
+                  <l>That wee bee never tri'd above our ſtrength</l>
+                  <l>By weal or woe; but may prevail at length,</l>
+                  <l>That either the temptation-times bee miſs'd,</l>
+                  <l>Or wee with graces armed to reſiſt:</l>
+                  <l>That, ever watchfull, wee may never fall,</l>
+                  <l>But grow in grace and bee preſerv'd in all.</l>
+                  <l>That wee may ever praiſe our heavenly King,</l>
+                  <l>From whom all bleſſings, friends, and favors ſprit</l>
+                  <l>That all that hear may join with free conſent,</l>
+                  <l>And full aſſurance of accompliſhment;</l>
+                  <l>Waiting for anſwers as not begg'd in vain,</l>
+                  <l>And ſo returning to our prayers again.</l>
+                  <l>Beſides it binde's to fixed contemplation,</l>
+                  <l>Serious ſoul-ſearching ſelf-examination;</l>
+                  <l>Often ejaculations to diſpatch,</l>
+                  <l>And carefull keeping of our chriſtian watch;</l>
+                  <l>Brideling the tongue, keeping each ſeat and ſenſ,</l>
+                  <l>Chiefly the heart with utmoſt diligence.</l>
+                  <l>The holie Sacraments muſt bee attended,</l>
+                  <l>The faith of Chriſt religiouſly defended</l>
+                  <l>By bold confeſſion, though it chance to com</l>
+                  <l>To loſs of all, or bloodie martyrdome.</l>
+                  <pb n="9" facs="tcp:172760:12"/>
+                  <l>Pſalm-ſinging is a duty moſt divine,</l>
+                  <l>Chriſtian converſing, and church diſcipline,</l>
+                  <l>Mutual confeſſion, prayer, and exhortation,</l>
+                  <l>Gentler reproof, and ſtronger conſolation;</l>
+                  <l>Religious conference good things to reherſ,</l>
+                  <l>This is the way of chriſtians to converſ</l>
+                  <l>Religious faſts, and feaſts, lots, covenants, vowes,</l>
+                  <l>As helps to theſe, God's holy Law allowe's.</l>
+                  <l>Sound doctrine muſt be taught, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtill maintain'd:</l>
+                  <l>That ſaints may be confirm'd, and converts gain'd.</l>
+                  <l>Schools, Counſels, Synagogues where ſaints may throng,</l>
+                  <l>The Scriptures publiſht in our mother-tongue,</l>
+                  <l>And David's Pſalms tranſlated into ſong.</l>
+                  <l>The publick lectures, and ſolemnities,</l>
+                  <l>With godlie books, muſt bee our exerciſe;</l>
+                  <l>Improving many a late and earlie hour</l>
+                  <l>In true devotion, to our utmoſt power.</l>
+                  <l>And Magiſtracie is God's ordinance</l>
+                  <l>(In ſacred things God's glory to advance</l>
+                  <l>The churche's peace and happineſs to purchaſe)</l>
+                  <l>Beſides the keyes committed to the Churches.</l>
+                  <l>But theſe are ſins from which we muſt withdraw</l>
+                  <l>Condemned by the ſecond ſacred Law,</l>
+                  <l>Neglect of duties mentioned before</l>
+                  <l>For meer omiſſion ſet's us on the ſcore;</l>
+                  <l>Wil-worſhip, which quite alter's or withdrawe's,</l>
+                  <l>And man's invention adding to the Lawes.</l>
+                  <l>The ſuperſtitious uſe of Images,</l>
+                  <l>Although wee aim at the true God in theſe:</l>
+                  <l>Religious honors don in any kinde</l>
+                  <l>To Creatures; ſhapes of God within our minde.</l>
+                  <l>All reverencing pictures, or thereby</l>
+                  <l>To point out any of the Trinitie.</l>
+                  <l>All that in idol-ſervice are partakers;</l>
+                  <l>All idol-mongers, and all idol-makers.</l>
+                  <pb n="10" facs="tcp:172760:13"/>
+                  <l>All Superſtitiouſneſs, when any one</l>
+                  <l>Doth put religion where the Lord put's none;</l>
+                  <l>Or when wee binde our ſelvs contrarily</l>
+                  <l>With the falſ ſnares of ſcrupuloſity.</l>
+                  <l>For all wee reckon to our ſouls propitious</l>
+                  <l>Without a ſcripture rule is ſuperſtitious.</l>
+                  <l>As Conſecrating or forbidding dayes,</l>
+                  <l>Religious places, orders, or arraies,</l>
+                  <l>Proceſſions, pilgrimages, popiſh pix.</l>
+                  <l>Bell, book, or candle, croſs, or crucifix,</l>
+                  <l>Beads, relques, altars, holy waters ſhed,</l>
+                  <l>And worlds of ſuperſtions tow'rds the dead.</l>
+                  <l>Raſh vows and mock-faſts, yea this Law debar's</l>
+                  <l>Too neer acquaintance with idolaters:</l>
+                  <l>To let whoſe monuments go undefac'd</l>
+                  <l>Hath Chriſtian Kings and princes much diſgrac'd.</l>
+                  <l>Raſh vows are ſuch as do from paſſion ſpring,</l>
+                  <l>Or ſuch as offer an unlawfull thing,</l>
+                  <l>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſuch as are not in our power to do,</l>
+                  <l>Yet of all theſe the ſaying is moſt true,</l>
+                  <l>Vows raſhly made may not bee raſhly broken,</l>
+                  <l>Though fit to bee repented of e're ſpoken.</l>
+                  <l>Affected poverty is much a kin,</l>
+                  <l>And ſingle life when it occaſions ſin:</l>
+                  <l>Defrauding our own families to dwell</l>
+                  <l>Within a monkiſh ſolitary cell;</l>
+                  <l>The wilfull ſuffering of ſome hard diſtreſs,</l>
+                  <l>As whips, and haircloth, ſores, and raggedneſs,</l>
+                  <l>Which ſeem humility and ſelf denial,</l>
+                  <l>But pride and popery, when they com to trial.</l>
+                  <l>Moreover, it condemn's all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe that dare,</l>
+                  <l>Without commiſſion, ſit in Moſes chair;</l>
+                  <l>They that do want endowments, and a call,</l>
+                  <l>Had beſt keep to their ſhop-board and their ſtall;</l>
+                  <l>Let <hi>
+                        <g ref="char:V">Ʋ</g>zzah</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>zziah</hi> bee example,</l>
+                  <l>To all that on theſe ſacred orders trample.</l>
+                  <pb n="11" facs="tcp:172760:13"/>
+                  <l>Yea 'tis a ſin if ſuch as have deſert</l>
+                  <l>Refuſe God's order to be ſet apart.</l>
+                  <l>And they that thruſt out, by unruly ſtirr's</l>
+                  <l>True doctrines, Ordinances, officers,</l>
+                  <l>And bring in falſe, or let the Church to fall</l>
+                  <l>By Anarchie, offend the moſt of all.</l>
+                  <l>Chriſt's ſeamleſs coat may not be rent with Schiſm,</l>
+                  <l>Nor truth admit of ſect or Sectariſm;</l>
+                  <l>Much leſs of Hereſie and wide Diviſion</l>
+                  <l>Which ruines the foundation of Religion:</l>
+                  <l>No fictions being fitlier term'd, then theſe,</l>
+                  <l>Man's own invented graven images.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the third</hi> Commandment.</head>
+               <lg>
+                  <l>A Reverent meditation of God's Word</l>
+                  <l>Titles and attributes take up the third.</l>
+                  <l>God's works muſt be obſerv'd with diligence,</l>
+                  <l>Thoſe of Creätion, thoſe of Providence,</l>
+                  <l>Hearing and reading, pray'r and ſpiritual ſongs</l>
+                  <l>Muſt exerciſe all awfull ears and tongues,</l>
+                  <l>With underſtanding, care, and conſtancy,</l>
+                  <l>With faith, zeal, gladneſs, and humility.</l>
+                  <l>With earneſt purpoſe what wee hear to do,</l>
+                  <l>Adding both pray'r and practice thereunto,</l>
+                  <l>Confeſſing ſin with grief when wee offend,</l>
+                  <l>And with a ſpeedy purpoſe to amend.</l>
+                  <l>All weighty buſineſs muſt be uſher'd in</l>
+                  <l>With ſolemn pray'r before the work begin.</l>
+                  <l>Nor may wee here paſs over or conceal</l>
+                  <l>The duty of thankſgiving at our meal.</l>
+                  <l>The very mention of God's Name and Laws</l>
+                  <l>Muſt bee with reverence, and upon juſt cauſ,</l>
+                  <l>Swearing by God alone when call'd thereto,</l>
+                  <l>And knowing what we ſwear is juſt and true.</l>
+                  <pb n="12" facs="tcp:172760:14"/>
+                  <l>Uſing God's bleſſings in a lawfull ſort,</l>
+                  <l>Even food, and raiment, labor, ſleep, and ſport,</l>
+                  <l>And joining with Profeſſion of God's name</l>
+                  <l>A converſation worthie of the ſame.</l>
+                  <l>But theſe are ſins, of which wee muſt repent,</l>
+                  <l>Forbidden by the third Commandement,</l>
+                  <l>Irreverent words, or thoughts of the moſt high,</l>
+                  <l>Or mention of him in hypocriſie.</l>
+                  <l>Privie hypocriſie is ſin though ſmall,</l>
+                  <l>Worſ is the formal Phariſaïcal:</l>
+                  <l>But groſs hypocriſie is worſt of all,</l>
+                  <l>Which under the pretence of pietie</l>
+                  <l>Dare's enterpriſe the greateſt villanie.</l>
+                  <l>Regardleſs Naming God in ſalutation,</l>
+                  <l>In begging, borrowing, or vain admiration,</l>
+                  <l>God ſave you, God bee with you, O good Lord,</l>
+                  <l>Oh Chriſt, Oh Jeſus, many a ſuch like word</l>
+                  <l>May bee and ſhould bee (in right manner) uſ'd,</l>
+                  <l>But infinitely often are abuſ'd;</l>
+                  <l>Becauſe the Name of God by many a one</l>
+                  <l>Is uſ'd with ſlightneſs, or not thought upon.</l>
+                  <l>So ſinging pſalms and tunes for recreation,</l>
+                  <l>Not with devotion or due meditation.</l>
+                  <l>Prayer or praiſe for ſmall or ſinfull things,</l>
+                  <l>Curſing or ſwearing which from paſſion ſpring's,</l>
+                  <l>From wanton cuſtom, or profane neglect</l>
+                  <l>Of that great name to which wee owe reſpect.</l>
+                  <l>Thus ſom in ſimpleneſs when at their game</l>
+                  <l>They pray to win, or praiſe God for the ſame,</l>
+                  <l>Say, God forbid to that which God will do,</l>
+                  <l>And God ſave all when ther's a damned crew.</l>
+                  <l>They ſay, if God will, when the Lord will not,</l>
+                  <l>But when they ſhould ſay ſo 'tis oft forgot.</l>
+                  <l>Dreadfull is ſwearing by Chriſt's humane nature,</l>
+                  <l>Or the great titles of the great Creätor;</l>
+                  <pb n="13" facs="tcp:172760:14"/>
+                  <l>But when by mortals or baſe things wee ſwear</l>
+                  <l>Greater reproach wee make God's name to bear,</l>
+                  <l>Chiefly by Idols: Hee commit's a ſin</l>
+                  <l>of higheſt nature that offend's therein.</l>
+                  <l>Yea vowing and proteſting is too much,</l>
+                  <l>Or calling faith or conſcience to avouch,</l>
+                  <l>Clipt oaths and curſes, which few people balk,</l>
+                  <l>All idle words, and fooliſh jeſting talk;</l>
+                  <l>And whatſoever phraſe of ſpeech bear's ſway</l>
+                  <l>In common meaning more then Yea and Nay.</l>
+                  <l>To ſay, Ile ſwear offend's, and as I live</l>
+                  <l>Too bold atteſt for mortal man to give.</l>
+                  <l>Or when for truth and certaintie, wee dare</l>
+                  <l>With God and Goſpel make a proud compare,</l>
+                  <l>Or offer by preſumptuous ſpeech or ſpell</l>
+                  <l>To prophecy, or work a miracle.</l>
+                  <l>As vain are any kind of words brought in</l>
+                  <l>To jeſt with Scripture ſacred things or ſin,</l>
+                  <l>Societie with mockers, whoſe paſtimes</l>
+                  <l>Are oaths, and ſportings at profaneſt crimes.</l>
+                  <l>To hear the voice of ſwearing and forbear</l>
+                  <l>To warn reprove or puniſh them that ſwear,</l>
+                  <l>Although it more prophane's the things divine</l>
+                  <l>To caſt away reproofs on dogs and ſwine,</l>
+                  <l>Such are thoſe miſcreants that care not for</l>
+                  <l>So rich a pearl, or do the pearl abhor;</l>
+                  <l>Bold adjurations, to extort and draw</l>
+                  <l>The truth from others, violate this law:</l>
+                  <l>So do thoſe pray'rs that never can be ſped,</l>
+                  <l>Vain repetitions, dirges for the dead,</l>
+                  <l>To pray for friends deceaſed is the trade</l>
+                  <l>Of ſuch as ſeldom in their life time prai'd.</l>
+                  <l>As vain are prayers for great cures appli'd</l>
+                  <l>But in a way God never ſanctifi'd.</l>
+                  <l>So are the prayers and preſumptuous praiſe</l>
+                  <l>Which fond affection and falſe rumors raiſe.</l>
+                  <pb n="14" facs="tcp:172760:15"/>
+                  <l>Abuſe of bleſſings, or a mouth that's dumb</l>
+                  <l>To give him praiſ from whence the bleſſings com.</l>
+                  <l>Babbling in pray'r, or preaching void of reaſon</l>
+                  <l>Duties miſplac'd, and acted out of ſeaſon:</l>
+                  <l>As private duties in the publick don,</l>
+                  <l>(More faulty when the publick is begun)</l>
+                  <l>To read when wee ſhould hear, or pray's a crime,</l>
+                  <l>For it profane's two duties at one time:</l>
+                  <l>Prayer in unknown tongues, or ignorance,</l>
+                  <l>And ſlubbering over any Ordinance.</l>
+                  <l>For all irreverence in the things of heaven</l>
+                  <l>Argue's a heart that is profanely given,</l>
+                  <l>This mightily condemn's the careleſs minde,</l>
+                  <l>That move's the lip and leave's the heart be<g ref="char:EOLhyphen"/>hinde,</l>
+                  <l>That heedleſs is of what wee execute,</l>
+                  <l>In prayer mindeleſs, and pſalm-ſinging mute,</l>
+                  <l>Entring on duty with a heart unbent,</l>
+                  <l>And unprepar'd receiving Sacrament:</l>
+                  <l>Beeing at Baptiſm as a bare ſpectator,</l>
+                  <l>No whit regarding the baptiſmal water,</l>
+                  <l>Unreverent poſture when they go to pray,</l>
+                  <l>As if wee ſerv'd an image made of clay:</l>
+                  <l>Sleepy and lazy prayers in our bed,</l>
+                  <l>Unleſs by weakenſs ſo occaſioned,</l>
+                  <l>Creeds, Avemaries, and I know not what</l>
+                  <l>Jabbled for prayers like the parrot's chat;</l>
+                  <l>Yea and our Lord's own words to idolize,</l>
+                  <l>As if the bare rehearſal did ſuffice;</l>
+                  <l>Jeering the Saints for their religion's ſake,</l>
+                  <l>All theſe for hainous profanations take.</l>
+                  <l>Hearing without affection to apply,</l>
+                  <l>Feeding our ears but not our hearts there<g ref="char:EOLhyphen"/>by,</l>
+                  <pb n="15" facs="tcp:172760:15"/>
+                  <l>Ore-curious queſtions, wilfull cavillation,</l>
+                  <l>Unreverent geſture, or miſapplication,</l>
+                  <l>Entring the Church, and ſtarting out again,</l>
+                  <l>When there are holy things to entertain;</l>
+                  <l>Going to ſit and ſleep, to muſe and gaze,</l>
+                  <l>To ſtate on Beauty, or where pomp doth blaze,</l>
+                  <l>To keep our heart or eye without a curb,</l>
+                  <l>And to do any thing that will diſturb:</l>
+                  <l>And laſtly with a wicked life to ſtain</l>
+                  <l>A good profeſſion, take's God's name in vain.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the Fourth</hi> Commandment.</head>
+               <lg>
+                  <l>THe Fourth require's a ſeventh of all our dayes</l>
+                  <l>Spent in religion for our Maker's praiſ.</l>
+                  <l>Preparing ſtill againſt each Sabbath day,</l>
+                  <l>Then riſing early, and avoid delay.</l>
+                  <l>The chief are publick duties, ſinging Pſalms,</l>
+                  <l>Pray'rs, ſermons, ſacraments, and giving alms.</l>
+                  <l>In private alſo wee muſt read and pray,</l>
+                  <l>Diſcourſ, ſing Pſalms, and meditate that day.</l>
+                  <l>Repeat the holy leſſons wee have heard.</l>
+                  <l>Nor may the works of mercy be defer'd,</l>
+                  <l>Wee may do needfull works of earthly kinde,</l>
+                  <l>Yet ſhould wee do them with more heavenly minde,</l>
+                  <l>Seaſoning our corporal food with ſpiritual ſalt,</l>
+                  <l>And all that edifie's wee ſhould exalt.</l>
+                  <l>At baptiſm wee muſt minde the bath of blood,</l>
+                  <l>And ſpirit of grace pour'd on us as a flood,</l>
+                  <l>Praying for him or her that is baptis'd</l>
+                  <l>That they with us may bee Spiritualliz'd.</l>
+                  <pb n="16" facs="tcp:172760:16"/>
+                  <l>Receiving Sacraments with hearts prepar'd,</l>
+                  <l>With faith and charity and great regard,</l>
+                  <l>Noting the breaking of the Corps-like bread,</l>
+                  <l>The wine pour'd out as Chriſt his blood was ſhed.</l>
+                  <l>Remembring he was God that could foretell,</l>
+                  <l>By apt reſemblance, what himſelf befell:</l>
+                  <l>The giving, taking, and to taſte and feed,</l>
+                  <l>Are all to be appli'd with carefull heed.</l>
+                  <l>The Parent, maſter, and the magiſtrate</l>
+                  <l>Muſt look to all that are within their gate.</l>
+                  <l>But theſe offences every one of them</l>
+                  <l>The fourth Commandement doth much condem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Not to confeſs, or not to underſtand</l>
+                  <l>The moral nature of the fourth Command.</l>
+                  <l>Not to prefer redemption to creätion,</l>
+                  <l>As cauſ ſufficient of the day's tranſlation.</l>
+                  <l>Forgetfulneſs of Sabbaths when they com,</l>
+                  <l>Or, out of ſlothfulneſs, to ſtay at home:</l>
+                  <l>Preferring duties don in private ſort</l>
+                  <l>Before the place where all the Church reſort.</l>
+                  <l>Neglect of preparation, meer delay,</l>
+                  <l>Wearie attendance haſte to get away:</l>
+                  <l>Leaving of holie things ſom part behinde,</l>
+                  <l>And ſuffering looſ diſtractions in our mind.</l>
+                  <l>A heart that run's, a tongue that talk's in vain</l>
+                  <l>Of worldly toyes, and following lures of gain.</l>
+                  <l>To lay inſtruction or good things aſide,</l>
+                  <l>Neglecting to becom our families guide:</l>
+                  <l>To be employ'd in errands, trim attires,</l>
+                  <l>Or labors which a common day require's.</l>
+                  <l>Say that on Sabbaths need ſhould chance enfor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>The haſty bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ial of a noyſome corſ;</l>
+                  <l>Yet can it not compel in any wiſe</l>
+                  <l>To keep the funeral ſolemnities:</l>
+                  <l>To ring and riot il become's a herſ,</l>
+                  <l>Much leſs when men ſhould Chriſtianly converſ.</l>
+                  <pb n="17" facs="tcp:172760:16"/>
+                  <l>To crowd the Corpſes in the Church that day</l>
+                  <l>Argue's the buriers are as dead as they.</l>
+                  <l>Preambulations, chattings, or paſtimes,</l>
+                  <l>Feaſts, journyes, viſits, or ſom lewder crimes,</l>
+                  <l>As diceing, carding: Som are lewder yet,</l>
+                  <l>Hurrying men headlong to the dreadfull pit,</l>
+                  <l>As Stews, and Stage-playes, every day abhor'd,</l>
+                  <l>But much more on the Sabbath of the LORD:</l>
+                  <l>And laſtly, ſuffering ſinners to profane</l>
+                  <l>The holy Sabbath, when wee might reſtrain.</l>
+                  <l>Although ſom ſin by ſcrupuloſitie,</l>
+                  <l>Pining poor creatures under miſerie,</l>
+                  <l>When ſudden ſickneſs or extreme diſtreſs</l>
+                  <l>Call's for a ſpeedy ſuccour and redreſs:</l>
+                  <l>As when indeed wee cannot com or ſtay,</l>
+                  <l>Our will's accepted any hour oth' day:</l>
+                  <l>For this rule hold's in Sabbath-exerciſe,</l>
+                  <l>God will have Mercy, and not Sacrifice.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the Fift</hi> Commandment.</head>
+               <lg>
+                  <l>HEre are the Duties and Digreſſions touch'd</l>
+                  <l>Which in the fift Commandement are couch'd;</l>
+                  <l>Firſt, then, the powers Supreme muſt, firſt of all,</l>
+                  <l>Bee ſure they have a right, and lawfull call:</l>
+                  <l>Good wholſom Lawes they muſt by counſel frame,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nferior Powers muſt execute the ſame:</l>
+                  <l>Unrighteous Lawes Superiors muſt repeal,</l>
+                  <l>And ſet in order Chuch and Common-weal.</l>
+                  <l>Even Kings and Princes daily ſhould converſ</l>
+                  <l>With ſacred Scriptures, and thoſe rules reherſ,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd in their proper perſons moſt excell</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> godlineſs, and guide their Houſholds well:</l>
+                  <pb n="18" facs="tcp:172760:17"/>
+                  <l>Brave men they muſt promote of able parts;</l>
+                  <l>Incourage virtue, and reward deſerts.</l>
+                  <l>Judges they muſt appoint and officers,</l>
+                  <l>And ſtir up able teaching Miniſters,</l>
+                  <l>Giving them charge that with alacrity</l>
+                  <l>They do their ſeveral duties faithfully.</l>
+                  <l>Who, they that prove corrupt and vile, muſt bee</l>
+                  <l>Remov'd and cenſur'd by ſevere decree.</l>
+                  <l>The Judges muſt give light to every cauſe,</l>
+                  <l>Reſpect no perſons, but regard the laws.</l>
+                  <l>They muſt maintain true freedom faithfully</l>
+                  <l>Propertie, peace, and civil honeſtie;</l>
+                  <l>But moſt of all Religion, that muſt have</l>
+                  <l>A ſure defenſ againſt each ſtorm and wave.</l>
+                  <l>And thus far doubtleſs ſhould compulſion go</l>
+                  <l>To cauſe to practiſe what men clearly know.</l>
+                  <l>Wherefore the Chriſtian magiſtracie ought</l>
+                  <l>Take care that people may bee truly taught,</l>
+                  <l>And for that teaching, cauſ them to maintain</l>
+                  <l>A learned Miniſtry to take the pain.</l>
+                  <l>They are obliged allwaies to ſuppreſs</l>
+                  <l>Strife, whoredom, drunkenneſs, and Idleneſs,</l>
+                  <l>Profaneneſs, conjuring, witchcraft, blaſphemie,</l>
+                  <l>Idolatry, Hereſie, vain aſtrologie,</l>
+                  <l>And all iniquitie, ſince both tables are</l>
+                  <l>Committed to their cuſtody and care.</l>
+                  <l>All publick perſons that are put in truſt</l>
+                  <l>Muſt bee religious, wiſe, couragious, juſt,</l>
+                  <l>Patient to hear, and hating covetouſneſs,</l>
+                  <l>Give good example, and good Counſel preſs.</l>
+                  <l>With Juſtice Equitie muſt go along,</l>
+                  <l>Elſ utmoſt right may prove extreameſt wrong</l>
+                  <l>Eſpecially when as the innocent</l>
+                  <l>Among the guilty ſuffer puniſhment.</l>
+                  <l>This care concern's likewiſe the Jurie-men</l>
+                  <l>And Officers, and every one of them</l>
+                  <pb n="19" facs="tcp:172760:17"/>
+                  <l>Umpires and Abitrators are no leſs</l>
+                  <l>Oblig'd to Equitie and righteouſneſs.</l>
+                  <l>But uſurpation of the throne one hour,</l>
+                  <l>Or putting vicious men in place of power,</l>
+                  <l>Rigor, remiſneſs, partiality,</l>
+                  <l>Taking of bribes, exaction, tyrannie,</l>
+                  <l>And toleration of thoſe evil things</l>
+                  <l>The Lord's ſure wrath upon the Rulers bring's.</l>
+                  <l>If Magiſtrates encourage not the Word,</l>
+                  <l>And godly people by the civil ſword;</l>
+                  <l>If they reliev not the oppreſs'd with ſpeed,</l>
+                  <l>And let not flie againſt an evill deed;</l>
+                  <l>If they will act no more then for their friends,</l>
+                  <l>Or for their intereſts, and worldly ends,</l>
+                  <l>If they be cold, or take an evil courſ,</l>
+                  <l>They hearten ſinners, and themſelvs ſin worſ.</l>
+                  <l>'Tis ſin to ſpare when ſin affront's the throne,</l>
+                  <l>This tolerate's God's wrongs and their own:</l>
+                  <l>'Tis ſin to ſuffer, and much more condemn'd,</l>
+                  <l>To make their own autoritie contemn'd.</l>
+                  <l>The Paſtors next and elders of the Church,</l>
+                  <l>Muſt watch the flock, and diligently ſearch</l>
+                  <l>Leſt hereſie, diſcord, or preſumptuous ſin,</l>
+                  <l>Apoſtacy or ignorance creep in.</l>
+                  <l>The publick preaching, catechiſing, prayer,</l>
+                  <l>With conſtant ſtudy, is the elders care.</l>
+                  <l>Theſe alſo privately Inſtruct, exhort,</l>
+                  <l>Rebuke, admoniſh, comfort, and ſupport.</l>
+                  <l>They muſt bee prime examples in their place,</l>
+                  <l>And guide their houſholds with eſpecial Grace:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ſecret pray'r they muſt not come behinde,</l>
+                  <l>For this the flock is to requite in kinde.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut negligence in watching, or in teaching,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rroneous, or unprofitable preaching,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>earing with ſuch as ought to bee reſtrain'd,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd letting Ordinances be profan'd,</l>
+                  <pb n="20" facs="tcp:172760:18"/>
+                  <l>Raſh laying on of hands in ordination,</l>
+                  <l>Without due triall and examination;</l>
+                  <l>Hard cenſures; Not receiving the weak ſaint;</l>
+                  <l>And letting ſouls for lack of comfort faint;</l>
+                  <l>To Lord it o're the flock and domineer,</l>
+                  <l>When the chief ſhepherd com's, will coſt men d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Next, Maſters muſt chooſ ſervants with good h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>And teach them chiefly what their ſouls do nee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Inſtruct th'Apprentice in his occupation,</l>
+                  <l>Allowing him all fit accommodation,</l>
+                  <l>Which muſt extend unto the ſick and lame,</l>
+                  <l>For then to leav them helpleſs is a ſhame;</l>
+                  <l>Reward their faithfull ſervice that ſtay long,</l>
+                  <l>And juſtly pay them wages without wrong,</l>
+                  <l>Forbear both wrath and threatning in diſpleaſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Although for crimes they ſhould correct in mea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>But not to care for ſervants that are good,</l>
+                  <l>Letting their ſouls or bodies lack their food,</l>
+                  <l>Detaining wages, or deſerv'd reward,</l>
+                  <l>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſuffring crimes to paſs without regard,</l>
+                  <l>Whereby iniquitie and vice grow's faſter,</l>
+                  <l>Make's us obnoxious to our heavenly maſter;</l>
+                  <l>And chiefly them that teach their ſtriplings fr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>To gain by Vice, and do theſe pranks applaud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Conjugal love now for the next place ſtriv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>And pious choice of husbands and of wives,</l>
+                  <l>Wherein the age and all ſhould correſpond</l>
+                  <l>To binde them fitly in the marriage bond.</l>
+                  <l>Other endowments alwaies giving place</l>
+                  <l>To hearty love, fine parts, and gifts of grace,</l>
+                  <l>Yet ſhould they ſtay, and never raſhly ſtrive</l>
+                  <l>For that eſtate, before a means to thrive.</l>
+                  <l>But more they ſin that baſely entertain</l>
+                  <l>A match unmeet for greedineſs or gain.</l>
+                  <l>Marriage contrived for unworthy ends</l>
+                  <l>Neither keep's conſcience nor the Conſort's f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <pb n="21" facs="tcp:172760:18"/>
+                  <l>Both owe dear love, and due benevolence,</l>
+                  <l>And in each other mutual confidence,</l>
+                  <l>Continual aid and prayer, and, laſt of all,</l>
+                  <l>A ſolemn mourning at their funeral.</l>
+                  <l>Bur want of love, and therefore to diſcover</l>
+                  <l>The ſecrecies or failings of each other,</l>
+                  <l>Diſhabitation, jealouſie, and ſtrife,</l>
+                  <l>Haſty remarriage: Theſe ſhame man and wife.</l>
+                  <l>Chiefly a taunting tongue and over topping,</l>
+                  <l>Is like a tempeſt or continual dropping.</l>
+                  <l>Duties peculiar to the Husband are</l>
+                  <l>Fit maintenance, protection, honeſt care</l>
+                  <l>Of dowry, good exanple, honouring her.</l>
+                  <l>The Wife ſhould bee a living Regiſter,</l>
+                  <l>Or glaſs to repreſent her Huſband's worth,</l>
+                  <l>Hee ſhould inſtruct her, and ſhee ſet him forth:</l>
+                  <l>But if hee ſhould bee of a froward ſpirit,</l>
+                  <l>Then muſt ſhee win him by peculiar merit;</l>
+                  <l>Being obedient, faithfull, meek and chaſte,</l>
+                  <l>Thrifty, not ſpending of his goods in waſte,</l>
+                  <l>Making proviſion to his beſt content,</l>
+                  <l>And let her carriage ſtill bee reverent</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f hee bee virtuous, hee deſerv's this more,</l>
+                  <l>However juſtly ſhee muſt uſe his ſtore.</l>
+                  <l>But diſreſpect in him, improvidence,</l>
+                  <l>And bad example breed no ſmall offence;</l>
+                  <l>And hee that hate's and torture's his own fleſh</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s worſ then Canniballs of the wilderneſs.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne bitter word is ſteep'd in too much gall,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd for a Lover too unnatural.</l>
+                  <l>Irreverence, diſobedience, peeviſhneſs,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſullen carriage, prodigal exceſs,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>adding abroad, imbezeling his eſtate,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd lightneſs ſhew's her an unworthy mate.</l>
+                  <l>Next parents muſt prevent and bleſs their ſeed</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith godly pray'rs (a bleſſed way to ſpeed,)</l>
+                  <pb n="20" facs="tcp:172760:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:172760:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:172760:20"/>
+                  <l>Tame them betimes, and bow their ſtubborn will,</l>
+                  <l>But with great mildneſs, and Compaſſion ſtill;</l>
+                  <l>Holy example they muſt ever give,</l>
+                  <l>And teach them truly in God's fear to live;</l>
+                  <l>In fit and honeſt callings train them up,</l>
+                  <l>For to ſom good imployment all muſt ſtoop:</l>
+                  <l>Give them in marriage in convenient time,</l>
+                  <l>And portions as abilitie can climb:</l>
+                  <l>The Mother, if inabled thereunto,</l>
+                  <l>Muſt nurſ the new-born babe, then Baptiſm's du<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>For bleſſing whereupon their pray'r muſt ſtrive,</l>
+                  <l>To name the child is his prerogative:</l>
+                  <l>The name ſhould ſome good document import,</l>
+                  <l>Not being fantaſtical in any ſort.</l>
+                  <l>Now bad example, and indulgence fond,</l>
+                  <l>Or in correcting them to go beyond</l>
+                  <l>Due moderation (Rigorous Tyrannie</l>
+                  <l>Is worſ then fond familiaritie)</l>
+                  <l>To train them up in ignorance or ſloth,</l>
+                  <l>Or pamper'd pride (more hurtfull than them bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>)</l>
+                  <l>And negligence of duties mentioned</l>
+                  <l>Make parents guilty, and the ſons ill bred;</l>
+                  <l>And worſ is the defrauding them of marriage,</l>
+                  <l>And portion, then the children's worſt miſcarri<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>To force, for gain, a match againſt their minde</l>
+                  <l>Is full as irreligious as unkinde.</l>
+                  <l>Stead-parents next and Guardians muſt enga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>To deal as tenderly with tender age;</l>
+                  <l>Which muſt not be provok'd in any faſhion,</l>
+                  <l>By cruel dealing ſway'd with furious paſſion;</l>
+                  <l>But needs muſt bee allow'd, with moderation,</l>
+                  <l>The ſweet encouragement of Recreation.</l>
+                  <l>And all their education and eſtate</l>
+                  <l>The beſt they can muſt Guardians regulate.</l>
+                  <l>The Tutors too, the Schoolmaſters likewiſe,</l>
+                  <l>And Rulers of the Univerſities</l>
+                  <pb n="23" facs="tcp:172760:20"/>
+                  <l>Are all obliged (as in parents room,)</l>
+                  <l>To tend this tender offspring of the womb.</l>
+                  <l>Indeavouring, the moſt delightfull way,</l>
+                  <l>To train them up in learning day by day;</l>
+                  <l>Curbing corruption native to the ſoul,</l>
+                  <l>(For they have beſt advantage to controul)</l>
+                  <l>And with compaſſion, in corruption's place</l>
+                  <l>Inſtilling all the principles of grace;</l>
+                  <l>Preferring them that ſeem to be deſign'd</l>
+                  <l>As inſtruments excelling in their kinde.</l>
+                  <l>But they that dare be careleſs of their charge</l>
+                  <l>Are ſuch as are reſolv'd to ſin at large:</l>
+                  <l>As for thoſe Stepdames that oppreſs with ſpite,</l>
+                  <l>And Guardians that betray the children's right,</l>
+                  <l>Their ſeed likewiſe muſt look for ſuch ſucceſs,</l>
+                  <l>And they the vengeance of the fatherleſs.</l>
+                  <l>Laſtly Superiours, not in power and place,</l>
+                  <l>But gifts of providence, nature, art, and grace,</l>
+                  <l>Theſe muſt bee wiſe, grave, humble, godlie, kinde,</l>
+                  <l>Which get's a great repute in others minde;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or lewdneſs, lightnes, and auſterity</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſcredit ſuch Superiors ſhamefully;</l>
+                  <l>And chiefly pride ſhame's them in every place,</l>
+                  <l>And make's them guiltie of their own diſgrace.</l>
+                  <l>Wit, wealth, and learning, birth, and parentage,</l>
+                  <l>Married eſtate, and reverend hoary age</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hould make men in example ſo to ſhine</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s having others under diſcipline.</l>
+                  <l>Now equalls, next, muſt equally affect,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llowing each to other due reſpect,</l>
+                  <l>Walking in love, and ſweet ſocietie,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd each preferring other Courteouſly.</l>
+                  <l>But now diſdain, ambition, envy, pride,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd treachery (a kinde of parricide)</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eglect of mutual pray'r, behaviour rude</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re here condemn'd, and all ingratitude;</l>
+                  <pb n="24" facs="tcp:172760:21"/>
+                  <l>For love, reſpect, and pray'r, and friendly aid</l>
+                  <l>Are duties upon all relations laid:</l>
+                  <l>Though friends, and families, and the near a kin</l>
+                  <l>Are moſt engaged and concern'd herein.</l>
+                  <l>The laſt, though not the leaſt, of requiſites</l>
+                  <l>Is due performance of the funeral rites:</l>
+                  <l>A good report moreover of the dead</l>
+                  <l>Whoſe lives and labors have ſo merited.</l>
+                  <l>To wrong the Name, the tomb, the bones, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Of a juſt man, are actions moſt unjuſt.</l>
+                  <l>Titles and Salutations every where,</l>
+                  <l>After the faſhion, and within our ſphere,</l>
+                  <l>To honor thoſe wee ſend to, ſee, or meet,</l>
+                  <l>Is very civil, Chriſtian and diſcreet,</l>
+                  <l>Knowing that if wee meet unworthy men</l>
+                  <l>Our ſalutation turn's to us agen.</l>
+                  <l>But who more vile than that vile generation</l>
+                  <l>That have not grace to own their own relation,</l>
+                  <l>That call their parents by their common Name,</l>
+                  <l>And bid their ſons and ſervants do the ſame:</l>
+                  <l>No ſcience nor ſuperior they diſcern,</l>
+                  <l>But prate, blaſpheme, and lie, and ſcorn to lea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Theſe and ſuch Hereticks are the men indeed</l>
+                  <l>To whom (when known) wee ſhould not ſay, ſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Now follow ſeveral orders of Inferiors,</l>
+                  <l>And Duties which they owe to their ſuperiors.</l>
+                  <l>Firſt, Subjects muſt obey the Lawes in force.</l>
+                  <l>Suffering at leaſt though Lords &amp; Laws were <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Reverence they owe, and humble courteſie,</l>
+                  <l>Suiting with their Superior's dignitie.</l>
+                  <l>Tribute and Cuſtome may they not refuſe,</l>
+                  <l>In legal wayes, for theſe are Ruler's dues.</l>
+                  <l>When need require's they humbly muſt de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>And ſeek for juſtice at their ruler's hand;</l>
+                  <l>Not letting wicked acts proceed and ſpread,</l>
+                  <l>Becauſ the autors go unpuniſhed.</l>
+                  <pb n="25" facs="tcp:172760:21"/>
+                  <l>But diſobedience and contempt of Lawes,</l>
+                  <l>Not to ſeek juſtice in a needfull cauſ,</l>
+                  <l>Whereby the wickedneſs that well ſucceed's</l>
+                  <l>May nouriſh Malefactors in miſdeeds,</l>
+                  <l>Treaſon, rebellion, fraudfull injuries,</l>
+                  <l>Curſing, and ſpeaking ill of Dignities,</l>
+                  <l>Or if to pray for lawfull powers wee grudg</l>
+                  <l>It is our guilt before the higheſt judg.</l>
+                  <l>The Flock muſt next attend with carefull ear</l>
+                  <l>Their Paſtor's charge, and their juſt cenſures bear.</l>
+                  <l>Strong Chriſtians muſt not ſeek themſelvs to pleaſ,</l>
+                  <l>But bear with lower Chriſtian's weakneſſes;</l>
+                  <l>They muſt with care watch over one another,</l>
+                  <l>Admoniſh privately the offending brother;</l>
+                  <l>Then before others, then the Church muſt know,</l>
+                  <l>Whom if hee hear not, count him half a foe:</l>
+                  <l>For there is none may think himſelf exempt</l>
+                  <l>From the Church-order, nor may ſhew contempt,</l>
+                  <l>Nor from a ſoul's aſſiſtance may withdraw,</l>
+                  <l>But hee ſhall violate this ſacred Law.</l>
+                  <l>Yea every familie ſhould in a ſort</l>
+                  <l>Becom a Church: The Maſter ſhould exhort,</l>
+                  <l>Inſtruct, admoniſh, cenſure, pray, and ſing,</l>
+                  <l>With all his houſ, as prophet, prieſt, and king.</l>
+                  <l>Next ſervants muſt obediently fulfill</l>
+                  <l>In every lawfull thing their maſter's will:</l>
+                  <l>They muſt bee reverent, dutifull, and meek,</l>
+                  <l>In caſe of wrong, and remedie to ſeek</l>
+                  <l>They may not murmur, neither may they hate,</l>
+                  <l>But ſeek for juſtice by the magiſtrate.</l>
+                  <l>They muſt bee faithfull, patient of reproof,</l>
+                  <l>Hearkning to counſel for their ſouls behoof:</l>
+                  <l>Induſtrious, neat and quick they ought to bee,</l>
+                  <l>And may adviſe, but with humilitie.</l>
+                  <l>Indeavouring to bee skilful in device,</l>
+                  <l>Abſtemious, ſober, temperate, yet not nice,</l>
+                  <pb n="26" facs="tcp:172760:22"/>
+                  <l>Faithfull in counſel ſecrets to conceal:</l>
+                  <l>And in diſcoverie dangers to reveal.</l>
+                  <l>For treacherie, talebea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing, daintineſs,</l>
+                  <l>Sloth, dulneſs, gluttonie, and all exceſs,</l>
+                  <l>Diſdain, and pride, and prodigalitie,</l>
+                  <l>And loathſome drunkenneſs, and ſlovenrie,</l>
+                  <l>Negligence, diſobedience, idleneſs,</l>
+                  <l>Purloining from their maſters more or leſs,</l>
+                  <l>Scorning to bear the leaſt rebukes or blows</l>
+                  <l>(Not ſcorning to deſerv ſuch things as thoſe)</l>
+                  <l>Doubling their faults (as 'tis the common uſe)</l>
+                  <l>By making lies their refuge and excuſe,</l>
+                  <l>Sullen or ſtubborn carriage, ſaucie tongues,</l>
+                  <l>All theſe are ſervant's ſins and ruler's wrongs.</l>
+                  <l>Next, Children's duties much like ſervant's are,</l>
+                  <l>In all ſubjection, but in love more rare,</l>
+                  <l>To bee the joyfull props of parents age,</l>
+                  <l>And theirs to whom they owe their parentage.</l>
+                  <l>Their ſpecial duty is not to attempt</l>
+                  <l>A married ſtate til firſt their friends conſent,</l>
+                  <l>Who ſhould be guides, if croſsneſs bear the ſway,</l>
+                  <l>Or covetouſneſs, the civil pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent may,</l>
+                  <l>But the ſtoln Marriage and unlicenſed</l>
+                  <l>Is like bold robberie where the bloud is ſhed.</l>
+                  <l>Alſo to ſmite or with prodigious breath</l>
+                  <l>To curſ a parent Moſe's Law made death:</l>
+                  <l>All ſcorning alſo to be ſub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ugate</l>
+                  <l>To parent's counſels, waſting their eſtate,</l>
+                  <l>Contemtuous carriage, ſloth and ſtubbornneſs,</l>
+                  <l>Neglecting to reliev them in diſtreſs,</l>
+                  <l>Mocking at their defects, diſdainfull laughter</l>
+                  <l>Are ſins too ſhamefull for a ſon or daughter.</l>
+                  <l>And laſtly, all Inferiors in deſerts</l>
+                  <l>Owe their ſubjection to Superior parts:</l>
+                  <l>As firſt to reverence the hoary head,</l>
+                  <l>And the bleſt honors of the Nuptiall bed;</l>
+                  <pb n="27" facs="tcp:172760:22"/>
+                  <l>The rare deſerts of learning and high birth,</l>
+                  <l>And leaſt of all the riches of the earth,</l>
+                  <l>Untill ſom power or place therwith bee join'd,</l>
+                  <l>Or the more noble riches of the minde.</l>
+                  <l>But for the rude and ignominious rabble</l>
+                  <l>To ſlight the ancient, learn'd and honorable;</l>
+                  <l>When ſimple men preſume, that ſcarce ſpeak ſenſ,</l>
+                  <l>To teach their betters, 'tis a foul offence;</l>
+                  <l>To bee unlearn'd and lofty, poor and proud,</l>
+                  <l>Young and yet ſaucy, may not bee allow'd;</l>
+                  <l>For even the want of manners is a breach</l>
+                  <l>Of God's Command, and thus the Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iptures teach.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the Sixt</hi> Commandment.</head>
+               <lg>
+                  <l>THeſe are the Duties which the Word mak's cleer</l>
+                  <l>That in the Sixt Commandement appear.</l>
+                  <l>Firſt that great care which tend's to ſaving ſouls,</l>
+                  <l>And godlineſs which killing luſts control's</l>
+                  <l>A ſpecial heed to that Commandement</l>
+                  <l>Where life is promis'd to th' obedient:</l>
+                  <l>A due preparing of our ſelvs for death,</l>
+                  <l>Then willingly reſigning our laſt breath,</l>
+                  <l>(The ſlaviſh fear of death is foul offence,</l>
+                  <l>And ſcarce permit's a martyr to commence)</l>
+                  <l>Yet ſhould hee firſt commend what he command's</l>
+                  <l>As near as may bee unto truſty hands,</l>
+                  <l>And e're a ſudden danger doth ſurpriſe,</l>
+                  <l>Think of his will, and funeral obſequies:</l>
+                  <l>For hee that care's not till his ſoul bee gone</l>
+                  <l>Loſeth two lives, and links two deaths in one.</l>
+                  <l>As for the body, theſe things here ſet down</l>
+                  <l>Are moſt effectuall, and of great renown.</l>
+                  <pb n="28" facs="tcp:172760:23"/>
+                  <l>A cheerfull heart, a temperate ſober life,</l>
+                  <l>A meek and peacefull ſpirit ſhuning ſtrife,</l>
+                  <l>Fit food and phyſick, mirth and recreation</l>
+                  <l>Expedient for our health and preſervation.</l>
+                  <l>Yet out of mirth pick all abuſiveneſs,</l>
+                  <l>Scurrility, prophaneneſs, and exceſs.</l>
+                  <l>Weapons ſomtime are needfull, and to crave</l>
+                  <l>The help of juſtice, our own ſelvs to ſave,</l>
+                  <l>And juſtice, too, muſt ſomtimes put on arms</l>
+                  <l>To puniſh ſin, and ſhield from greater harms.</l>
+                  <l>Theſe alſo are our duties towards man,</l>
+                  <l>Peace-making and peace-keeping, all wee can,</l>
+                  <l>Compaſſion, patience, and kinde neighbourhood,</l>
+                  <l>And true rejoycing at our neighbour's good,</l>
+                  <l>Calmneſs in arguing, leſt wee ſhould not light</l>
+                  <l>On peacefull truth, while paſſion blinde's our ſigh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>To pardon many wrongs, and ſympathize</l>
+                  <l>When good or ill befall's him in our eyes.</l>
+                  <l>Soft anſwers, courteous carriage, ſuffering ſtill,</l>
+                  <l>Rather then doing, or rewarding ill.</l>
+                  <l>Yet ſhould wee reſcue, to our power and might</l>
+                  <l>The weak and wronged from oppreſſor's ſpite.</l>
+                  <l>And wee muſt viſit, comfort, cloath, and feed</l>
+                  <l>The ſick, and ſad, and ſuch as ſtand in need.</l>
+                  <l>For if thou doſt not feed, the Law ſaith plain,</l>
+                  <l>For want of yielding ſuccour thou haſt ſlain:</l>
+                  <l>Wee ſhould do good to all (as Scripture ſaith)</l>
+                  <l>But chiefly to the family of faith,</l>
+                  <l>Remembring evermore that charity</l>
+                  <l>Begin's at home and ſuccoureth ſpeedily.</l>
+                  <l>Nor may wee fail of mercy, in the leaſt,</l>
+                  <l>To ſtrangers, enemies, no, nor to the beaſt,</l>
+                  <l>Spiritual aid no neighbour may deny</l>
+                  <l>To very malefactors that muſt die.</l>
+                  <l>On juſt occaſion muſt a State make war,</l>
+                  <l>Juſtly purſue it by the Souldier;</l>
+                  <pb n="29" facs="tcp:172760:23"/>
+                  <l>And hee (of all men) is to learn from hence,</l>
+                  <l>To offer no injurious violence.</l>
+                  <l>Here alſo Empyricks owe their care and skill,</l>
+                  <l>Leſt by neglect or ignorance they kill.</l>
+                  <l>Rich Landlords by this rule muſt have regard</l>
+                  <l>They wrack not the poor tenant over hard;</l>
+                  <l>Or if their Rents and rates oppreſs them nor,</l>
+                  <l>Hard impoſitions may not bee forgot.</l>
+                  <l>Or if ſmall faults, or others offering more</l>
+                  <l>Shall turn a needy Tenant out of door:</l>
+                  <l>For oftentimes indeed none ſtrike more dead</l>
+                  <l>Than they that let or take ore other's head.</l>
+                  <l>But if the widow, and the fatherleſs,</l>
+                  <l>The blind, and lame our charity confeſs;</l>
+                  <l>If wee give portions unto ſeven and eight,</l>
+                  <l>And build up men and families to their height,</l>
+                  <l>Or if wee ſpend our mite, and would proceed,</l>
+                  <l>Wee are intitled to a bleſſed deed.</l>
+                  <l>Whereas oppreſſion and depopulation</l>
+                  <l>Are cruel crimes, that murther up a Nation;</l>
+                  <l>And either of them, as a deluge, drown's</l>
+                  <l>Whole generations, families, and towns.</l>
+                  <l>And where the poor man doth the poor oppreſs</l>
+                  <l>'Tis like the creature that is mercileſs.</l>
+                  <l>Here then are many ſins of large extent</l>
+                  <l>Forbidden by the fixt Commandement.</l>
+                  <l>Surfeit for one, and one among the chief,</l>
+                  <l>Corrupting eaſ, corroding care and grief,</l>
+                  <l>Unwholeſom food, libidinous delight</l>
+                  <l>To ſatiate a wanton appetite.</l>
+                  <l>Som ſo addict themſelvs to pineing cares,</l>
+                  <l>To gnawing penſiveneſs, and cold deſpairs,</l>
+                  <l>For loſs of ſweeteſt babes, and deareſt friends</l>
+                  <l>(Although they know what happineſs attend's)</l>
+                  <l>And urge their eager griefs with hearts ſo willing,</l>
+                  <l>They make their life time a continual killing.</l>
+                  <pb n="30" facs="tcp:172760:24"/>
+                  <l>Som eat raw gretes and meal, ſom chalk &amp; coa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Thus leanneſs enter's to their very ſoul,</l>
+                  <l>Greenſickneſs, worms, and feavers moſt unquiet</l>
+                  <l>Breed of raw fruits, and ſuch unwholſom diet:</l>
+                  <l>Surfeit of meats hath made its thouſands fall,</l>
+                  <l>Of drink ten thouſands, counting ſouls and all.</l>
+                  <l>Tampring with Phyſick is ſom people's crime,</l>
+                  <l>But thouſands die for want of it in time.</l>
+                  <l>Som ſlight good means &amp; bury Neighbours thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>By their unskilfull handling of the ſick:</l>
+                  <l>Som tire their bodies with exceſſive toyl,</l>
+                  <l>And Som the want of exerciſe doth ſpoyl:</l>
+                  <l>Unceſſant ſtudies drive's ſom from their wits,</l>
+                  <l>Som ſwelling pride, ſome love outragious fits.</l>
+                  <l>Many a one by extreme labor die's,</l>
+                  <l>Som by a proud preſumptuous enterpriſe:</l>
+                  <l>Yet few of theſe do think (perhaps) how far</l>
+                  <l>Theſe deeds give title to a murtherer.</l>
+                  <l>Sadneſs and paſſion often bring diſeaſ,</l>
+                  <l>And there is murther much in ſuch as theſe,</l>
+                  <l>Wrath, envie, malice, hatred, crueltie,</l>
+                  <l>Revengefull thoughts, and rageing jealouſie:</l>
+                  <l>In big and bloodie boaſtings, Lamech-like,</l>
+                  <l>To kill for ſtriking, for a word to ſtrike,</l>
+                  <l>In deſperate companions, and paſs-times:</l>
+                  <l>In acting, or alluring to lewd crimes,</l>
+                  <l>Which ſlay the idle through their own default,</l>
+                  <l>That having nought to do muſt needs do nought</l>
+                  <l>In waggiſh ſports &amp; tricks, whence miſcheiſ bree<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>In ſuffering mad-men whom no keeper heed's.</l>
+                  <l>In keeping harmfull beaſts and dangerous wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Miſleading him whoſe ſoul or body ſtraie's</l>
+                  <l>In curſes, cruel mockings, bitter words</l>
+                  <l>Which ſomtimes cut more keen than naked ſwor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>With what ſtrange poyſon do theſe people ſwell,</l>
+                  <l>That curſ themſelves and others unto hell!</l>
+                  <pb n="31" facs="tcp:172760:24"/>
+                  <l>Hang him's a dreadfull curſ, &amp; much more evill</l>
+                  <l>Thoſe wicked wiſhes that take in the Devil,</l>
+                  <l>Whoſe horrid name, when anger move's the ſenſ</l>
+                  <l>Is ſeldom mentioned without offence.</l>
+                  <l>A thouſand maledictions more there bee</l>
+                  <l>That would deſtroy, ſhould Providence agree,</l>
+                  <l>For though the cauſleſs curſ ſhall never com</l>
+                  <l>Yet cauſleſs curſing much impeacheth ſom.</l>
+                  <l>Som curſ and ſwear and dam it all day long,</l>
+                  <l>Hell-fire hath kindled ſuch a wicked tongue:</l>
+                  <l>The heart that boyl's up wrath in diſcontent</l>
+                  <l>Hardly balk's oaths and curſes in conſent.</l>
+                  <l>Opprobrious terms and nicknames do both kill,</l>
+                  <l>And ſtir up anger to avenge the ill.</l>
+                  <l>Yet may Superior's rate men for their crimes,</l>
+                  <l>And Chriſtians ſafely ſcoff at ſin ſomtimes,</l>
+                  <l>When wee, but giving men their due deſerts,</l>
+                  <l>Are griev'd to ſee the hardneſs of their hearts.</l>
+                  <l>The factious, fierce, and given to debate,</l>
+                  <l>The buſie-body, and the obſtinate</l>
+                  <l>Do greatly violate this law of peace,</l>
+                  <l>And drunkards cups which make the ſtrife increaſ.</l>
+                  <l>Som chide, ſom fight it out, and ſome go further,</l>
+                  <l>To wounding, maiming, manſlaughter, and murther.</l>
+                  <l>Som murther by conſent of Lawes not good:</l>
+                  <l>That harm the Saints, and ſhed the martyr's blood.</l>
+                  <l>Som by concealment of a bloody deed,</l>
+                  <l>Som ſuffering wrongfull ſentence to proceed,</l>
+                  <l>Som of pretenſed malice, like to Cain,</l>
+                  <l>Som that are alwayes in a quarrelling vein.</l>
+                  <l>Som frayes delight, and fill the aer with ſhouts,</l>
+                  <l>Making a ſport of blows and bloody bouts;</l>
+                  <l>Some train their children up to fight and curſ,</l>
+                  <l>Satan himſelf could tutor them no worſ.</l>
+                  <l>Some like the Pagan Philiſtine of Gath,</l>
+                  <l>Fight Duells, out of malice, pride, and wrath,</l>
+                  <pb n="32" facs="tcp:172760:25"/>
+                  <l>But would refrain, had they the leaſt belief</l>
+                  <l>And ſavoury ſenſ of future joy and grief.</l>
+                  <l>Som pinch and pine poor ſervants as they pleaſ</l>
+                  <l>Som wound and maim their poor apprentices.</l>
+                  <l>Som ſtarv the babe at nurſ for lack of food,</l>
+                  <l>Som keep the pledg the poor man's livelihood:</l>
+                  <l>Som pine poor priſoners for a trifling debt,</l>
+                  <l>Sharper on malice than on money ſet:</l>
+                  <l>Som out of baſeneſs care not if the poor</l>
+                  <l>(Neighbour or kinſman) even ſtarv at door.</l>
+                  <l>Som Tyrants keener then fierce tygers are</l>
+                  <l>Burn, ſpoil, and torture in the time of war.</l>
+                  <l>And often unprovoked or withſtood</l>
+                  <l>Murther their harmleſs brethren in cold blood.</l>
+                  <l>Som hide their whoredoms with far greater ſin,</l>
+                  <l>Even blood of babes their hands are bathed in.</l>
+                  <l>Som project the untimely death of friends,</l>
+                  <l>And ſom by ſecret poiſon work their ends.</l>
+                  <l>Some keen to others children, ſom are known</l>
+                  <l>Unnaturally cruel to their own.</l>
+                  <l>Som by damn'd witchcraft murther thoſe they h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Som to that purpoſe do aſſaſſmate.</l>
+                  <l>Som act it by themſelvs, and deeply ſtain</l>
+                  <l>Their hands in blood for greedineſs of gain.</l>
+                  <l>But moſt of theſe foul monſters are deſign'd</l>
+                  <l>To a hard heart, and reprobated minde,</l>
+                  <l>For they that can digeſt the cries of blood</l>
+                  <l>Under ſin's anvil have a long time ſtood.</l>
+                  <l>Som ſet their cocks, dogs, bears and bulls ro fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Baiting poor creatures for their vain delight.</l>
+                  <l>And ſom their vain experiments to trie</l>
+                  <l>Uſe the dumb beaſt with monſtrous cruelty.</l>
+                  <l>Som load and work them dead, ſom pine their ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Som beat them blinde and lame in frantick fits:</l>
+                  <l>But God that call'd Balaam to account,</l>
+                  <l>Will alſo them that him in ſin ſurmount.</l>
+                  <pb n="33" facs="tcp:172760:25"/>
+                  <l>om ſin contrarily, no leſs miſled,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat feed vile creatures with the children's bread.</l>
+                  <l>Not killing kill's ſomtimes, when Governors</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rill ſpare the life of wilfull murtherers:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r thoſe that ſhould purſue, or prove, or finde,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re negligent, or partially inclin'd.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd Cowardiſe doth often much more ſo</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>etraying numbers to the ſlaughtering foe.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elf-murther in more meaſure fill's the ſcroll,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd moſt of all the murther of the ſoul.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce meer chance-medly doth, at leaſt, require</l>
+                  <l>Sanctuary, end thou fool Hell-fire.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m out of paſſion raſhly wiſh to die,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpice of this ſelf-murther certainly;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd wicked Parents, Rulers, Miniſters</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re (out of doubt) the chiefeſt murtherers.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the Seventh</hi> Commandment.</head>
+               <lg>
+                  <l>THe Seventh ſacred Law, which God command's,</l>
+                  <l>Require's theſe holy duties at our hands:</l>
+                  <l>Pure thoughts, and ſpeeches, modeſt looks, and geſtures</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd gravity put on in very veſtures,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>briety in food, and moderate reſt,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rious imployment, chiefly in the beſt;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſtraint of wanton and laſcivious ſenſes,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arriage (when needs) and due benevolences.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, to get habits of the chaſter ſoul,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſting and pray'r muſt fleſhly luſts controll;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſom good end beyond the appetite</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>waies propounded to live pure and right.</l>
+                  <l>Immodeſt talk all Chriſtians muſt debar,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d herein boſom friends bee ſingular:</l>
+                  <pb n="34" facs="tcp:172760:26"/>
+                  <l>That every one his veſſel may poſſeſs</l>
+                  <l>In perfect honor, and true holineſs.</l>
+                  <l>Of ſpeculative wantonneſs beware,</l>
+                  <l>Gaze not on beauty, leſt it prove a ſnare.</l>
+                  <l>The bait of beauty is to be contem'd,</l>
+                  <l>And theſe things following are by law condem'd</l>
+                  <l>Unclean imaginations, wanton looks,</l>
+                  <l>Obſcene communications, amorous books,</l>
+                  <l>Incontinency, and intemperance,</l>
+                  <l>Brazen-fac'd impudence, and dalliance.</l>
+                  <l>Laſcivious ſongs, or pictures, ſports, or jeſts,</l>
+                  <l>Looſ company, and pampering idleneſs;</l>
+                  <l>And, that from whence freſh Venus chiefly ſpri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Fulneſs of bread, and drunken revellings,</l>
+                  <l>Promiſcuous dancings, light and gariſh dreſſes</l>
+                  <l>And dangerous lures of gliſtering nakedneſſes:</l>
+                  <l>The plaiſter-paintings of proud Jezabel,</l>
+                  <l>Decking the fleſh as if it were to ſell:</l>
+                  <l>Potions, and powderings us'd to nouriſh luſt,</l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ntill the powder do forget the duſt.</hi>
+                  </l>
+                  <l>In marriage alſo all immoderation,</l>
+                  <l>Undue acceſſes, and vile provocation:</l>
+                  <l>Polygamie, and all undue divorce,</l>
+                  <l>Which by deſertion ſome would fain enforce.</l>
+                  <l>Deformitie, or impotence conceal'd,</l>
+                  <l>Kindred, or pre-engagements unreveald:</l>
+                  <l>For thoſe whom kindred in leſs compaſs joyn's</l>
+                  <l>Than two degrees of the ſame womb or loyns,</l>
+                  <l>Or com their former ſpouſes in leſs room</l>
+                  <l>Than two degrees of the ſame loyns or womb,</l>
+                  <l>Are all debarr'd by conſanguinity,</l>
+                  <l>Or the ſtrict bands of near affinity.</l>
+                  <l>But wedlock's ſafe and from exception free,</l>
+                  <l>If it keep diſtance to the third degree.</l>
+                  <l>And theſe are ſins of a more ugly ſhape,</l>
+                  <l>Adultery, fornication, inceſt, rape,</l>
+                  <pb n="35" facs="tcp:172760:26"/>
+                  <l>Profeſſed whoredom, panderiſm, and ſtews,</l>
+                  <l>And luſts unnatural, o're-vile to uſe;</l>
+                  <l>To which vile luſts wee fitly may annex</l>
+                  <l>A garment worn contrary to the Sex.</l>
+                  <l>And much they venture to defile this bed,</l>
+                  <l>That with an unbeleever dare to wed.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the Eight</hi> Commandment.</head>
+               <lg>
+                  <l>THeſe are the duties of the eight Command,</l>
+                  <l>A juſt vocation pli'd with skilfull hand:</l>
+                  <l>In trading, honeſt dealing all along,</l>
+                  <l>And reſtitution where wee have don wrong;</l>
+                  <l>An equall price, a moderate gain or fee,</l>
+                  <l>Expences ſuch as with our ſtate agree;</l>
+                  <l>Frugality, and laying up in ſtore</l>
+                  <l>For houſ and home, the publick, and the poor:</l>
+                  <l>For diligence and thrift muſt ſtill ſupply</l>
+                  <l>The fewell of our liberality,</l>
+                  <l>To give and gratifie, to lend and loſe</l>
+                  <l>As good diſcretion binde's us to diſpoſe;</l>
+                  <l>For rich men muſt bee rich in all good deeds,</l>
+                  <l>Elſe are but robbers while their wealth exceed's.</l>
+                  <l>Juſt weights and meaſures, juſt accounts &amp; wages,</l>
+                  <l>Both earn'd and pai'd as Equity engage's,</l>
+                  <l>Borrowing on good occaſion, keeping day,</l>
+                  <l>And every circumſtance of honeſt pay:</l>
+                  <l>Adviſed ſuretiſhip, and actions juſt</l>
+                  <l>In ſtewardſhip committed to our truſt.</l>
+                  <l>Reſtoring pawns, and morgages of land,</l>
+                  <l>Without exaction at the borrower's hand;</l>
+                  <l>Helping true owners ever what wee may</l>
+                  <l>To their loſt goods, their ſtoln, or ſtray'd away.</l>
+                  <pb n="36" facs="tcp:172760:27"/>
+                  <l>But for a man to lead a lazy life,</l>
+                  <l>To ſpend in pomp, in luxury, or ſtrife,</l>
+                  <l>Raſh ſuretiſhip, and borrowing to ſpend,</l>
+                  <l>Or any way defrauding them that lend,</l>
+                  <l>Lending, or giving gifts to our own ſorrow,</l>
+                  <l>Till wee our ſelvs are forc'd to beg or borrow,</l>
+                  <l>Expenſive gaming, and great wagerings,</l>
+                  <l>All theſe are to bee deem'd unlawfull things.</l>
+                  <l>Thus oftentimes the man that giv's relief,</l>
+                  <l>And boaſt's of bounty, yet may bee a thief,</l>
+                  <l>By giving goods ill got, ill ſpar'd, or worſ,</l>
+                  <l>Carving large portions of another's purſ.</l>
+                  <l>Notorious thievs are they whoſe vaſt expenſ</l>
+                  <l>Bring's on themſelvs extremeſt indigence:</l>
+                  <l>
+                     <hi>Game is a civil Gunpowder in peace,</hi>
+                  </l>
+                  <l>
+                     <hi>Blowing up houſes with their whole encreaſ:</hi>
+                  </l>
+                  <l>Hee that ſtake's that from which hee may not p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Stake's both his houſ, his conſcience, and his her</l>
+                  <l>Game may not turn a trade, but is a crime</l>
+                  <l>When bouls, and bets, and cards conſume our ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>The rich offend for want of moderation:</l>
+                  <l>In their expenſ and time for recreation:</l>
+                  <l>But more blameworthy are the poorer ſort</l>
+                  <l>To waſte their time and means in laviſh ſport,</l>
+                  <l>Yea thoſe that ſuffer them to lie at game</l>
+                  <l>Are not a little guilty of the blame.</l>
+                  <l>Soon may the gameſter emptie all his baggs,</l>
+                  <l>The barretting brabbler cloth himſelf with ragg</l>
+                  <l>The haunted Alehouſ, and the harlot's bed</l>
+                  <l>Bring to a cottage, and a cruſt of bread.</l>
+                  <l>It is likewiſe a great (if wilfull) ſin</l>
+                  <l>To have no honeſt calling to live in,</l>
+                  <l>To leave our calling for an idle courſ,</l>
+                  <l>Though the pretence were piety, is worſ.</l>
+                  <l>The ſlothfull ſluggard labouring not at all</l>
+                  <l>Compareth with the waſtefull prodigall.</l>
+                  <pb n="37" facs="tcp:172760:27"/>
+                  <l>Theſe are ſelf-robberies for the greater part,</l>
+                  <l>The next are wro<g ref="char:cmbAbbrStroke">̄</g>gs whereby our neighbour's ſmart.</l>
+                  <l>As haſting to be rich, exceſſive rates:</l>
+                  <l>Beguiling by falſ meaſures, coins, or weights,</l>
+                  <l>Uſurious contracts which do ſhrewdly bite,</l>
+                  <l>Unjuſt detaining of another's right;</l>
+                  <l>The tythe, or that which from the tythe come's in</l>
+                  <l>Who can withhold and not commit great ſin?</l>
+                  <l>The next and like to this is to detain</l>
+                  <l>The poor man's wage, and ſuch diſhoneſt gain:</l>
+                  <l>To hire the hired from his maſter's pay</l>
+                  <l>Before diſmiſſion, or the lawfull day;</l>
+                  <l>Or to prevent our neighbour of his price,</l>
+                  <l>His ſale, or ſervant, by unjuſt device.</l>
+                  <l>Diſpraiſing wares to buy them underfoot,</l>
+                  <l>The love of money (avarice's root,)</l>
+                  <l>Unjuſt vexation to our neighbour's coſt,</l>
+                  <l>Deteining goods, lent, left in truſt, or loſt,</l>
+                  <l>Removing land-marks and the antient bounds,</l>
+                  <l>And wilfull treſpaſs on our neighbour's grounds;</l>
+                  <l>Baſe parcimony, when our needs require,</l>
+                  <l>Adulterate wares, and undeſerved hire.</l>
+                  <l>It much concern's the guardians and truſtees,</l>
+                  <l>The Lawyers and Phyſitians for their fees;</l>
+                  <l>The ſouldier for his plunder, ſpoil and pay,</l>
+                  <l>The Teacher for his tythes, leſt fraud, delay,</l>
+                  <l>Wrong, ignorance, or negligence ſhould make</l>
+                  <l>Their actions theft, and don for lucre's ſake.</l>
+                  <l>Thus alſo ſin's the loytering labourer,</l>
+                  <l>And by the following many people err,</l>
+                  <l>By cunning arts to couſen and oppreſs,</l>
+                  <l>Exaction, and unhoſpitableneſs,</l>
+                  <l>Hoarding up corn, to make, not mend a dearth,</l>
+                  <l>And to engroſs to fell things overworth.</l>
+                  <l>Hee that exact's a debt where God make's poor,</l>
+                  <l>Take heed his own debts hang not on the ſcore.</l>
+                  <pb n="38" facs="tcp:172760:28"/>
+                  <l>He that exact's though neither debt nor due</l>
+                  <l>Hazard's inditement with the damned crue:</l>
+                  <l>Nor can it bee excus'd to ſet a price</l>
+                  <l>And put to ſale unlawfull merchandize.</l>
+                  <l>Things ſacred, Juſtice, honeſty, and truth</l>
+                  <l>May not bee ſold, whatever any doth;</l>
+                  <l>Nor any thing that is not cleer our own,</l>
+                  <l>Nor the loſt goods if th'owner may bee known;</l>
+                  <l>Nor things deſtructive, ſuch as poiſons bee,</l>
+                  <l>And magick books, and popiſh trumperie.</l>
+                  <l>To this account the tradeſman doth belong,</l>
+                  <l>That gather's wealth by a deceitfull tongue;</l>
+                  <l>Th'unrighteous ſteward with his falſ accounts,</l>
+                  <l>The divelliſh jailor that in ſin ſurmount's,</l>
+                  <l>And dare's exact of felons ſuch a fee,</l>
+                  <l>Untill the thief bee honeſter then hee;</l>
+                  <l>The domineering baylief, that doth ſqueez</l>
+                  <l>The tenant, for enhauncing his own fees;</l>
+                  <l>The knight o'th' poſt, the ſerjeant, and the ſetter</l>
+                  <l>That often cheat both creditor and debter.</l>
+                  <l>What worlds of men live by unlawfull ſhifts!</l>
+                  <l>The bribe-fed taker of corrupting gifts,</l>
+                  <l>The proſecutor of unjuſt decrees,</l>
+                  <l>To whom the vile extortioner agree's,</l>
+                  <l>The clipper and embaſer of the coyn</l>
+                  <l>(A monſtrous theft that doth much treaſon joyn)</l>
+                  <l>Th'exacting Broker, and the highway thief,</l>
+                  <l>The cous'ning Breaker, one among the chief,</l>
+                  <l>The cunning cutpurſ, and the conjurer,</l>
+                  <l>The cheator, and the common Barretter,</l>
+                  <l>The guilefull gameſter, and his looſ partaker,</l>
+                  <l>The brutiſh bearward, and the ballad-maker,</l>
+                  <l>The trifling juggler with his nimble ſlight,</l>
+                  <l>The ſcurrilous fidler, and the paraſite,</l>
+                  <l>The g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>being jeſter with his wits ſo quick,</l>
+                  <l>The ignorant unskilfull empyrick:</l>
+                  <pb n="39" facs="tcp:172760:28"/>
+                  <l>The bold pretender to ſome great cures don</l>
+                  <l>By touch or ſtroking of the ſeventh ſon;</l>
+                  <l>(Hee take's his fee, but neither mend's the evil,</l>
+                  <l>Nor hath the power to do't but from the devil)</l>
+                  <l>The baſe purloiner of men's goods and griſt;</l>
+                  <l>The vaporing and deceitfull Alchymiſt:</l>
+                  <l>The ſubtle horſ-courſer inur'd to cheat,</l>
+                  <l>And hee that rob's the dumb beaſt of his meat;</l>
+                  <l>The tumbler, and the dancer on the rope,</l>
+                  <l>The ſpiritual merchants of the Romiſh Pope,</l>
+                  <l>And neer a kin to him (as Satan's factor)</l>
+                  <l>Is every ſimoniacal contractor:</l>
+                  <l>The exorciſmiſt, and the pardon-ſeller,</l>
+                  <l>The figure-caſter, and the fortune-teller,</l>
+                  <l>Th'inveigling preacher whom the truth controll's,</l>
+                  <l>That for his gain make's merchandize of ſouls:</l>
+                  <l>The ſturdy rogue that goe's from door to door,</l>
+                  <l>The player, and the mercenary whore,</l>
+                  <l>And hee that ſet's them on, as many doe,</l>
+                  <l>That ſerv's or feed's them, is a robber too.</l>
+                  <l>Manſtealing, rapine, theft, and pyracie,</l>
+                  <l>Receiving ſtollen goods, and robberie,</l>
+                  <l>All theſe are ſins, and heightened when wee lurch</l>
+                  <l>The poor, the weak, the orphane, or the Church.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the Ninth</hi> Commandment.</head>
+               <lg>
+                  <l>THe Ninth Command appointeth us to trie</l>
+                  <l>To know and judg our ſelvs impartially;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ſhun the rock of pride, and dangerous ſhelvs</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f ſelf-conceit, with low thoughts of our ſelvs.</l>
+                  <l>By virtue to procure our own good Name,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd when ther's need wee muſt defend the ſame:</l>
+                  <pb n="40" facs="tcp:172760:29"/>
+                  <l>Yet this muſt ever bee with modeſtie,</l>
+                  <l>And in a ſort perform'd unwillingly.</l>
+                  <l>It binde's us to bee ſparing in our talk,</l>
+                  <l>But when wee ſpeak the trueth wee may not bal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Where ſolemn promiſes and Covenants tie</l>
+                  <l>Wee muſt perform them though wee looſ thereb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Yet ſhould they not bee raſh, leſt when compacte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>'Twere ſin to break, or ſin to bee exacted.</l>
+                  <l>Our Neighbour's credit wee muſt highly prize</l>
+                  <l>And ſhould bee griev'd for his infirmities.</l>
+                  <l>Caſting love's mantle o're them, without grudg<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>Hoping the beſt with patience, and ſo judging.</l>
+                  <l>Commending his deſerts and gifts of grace,</l>
+                  <l>Yet more behinde his back than to his face,</l>
+                  <l>Defending his good name, whoſe worth wee kn<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>By ſpeech or writing, when requeſted ſo.</l>
+                  <l>Abhorring everie idle falſ report</l>
+                  <l>That wounds our Neighbour's Name in any ſor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>But this condem's the willfull promiſe-break<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>The brain-ſick boaſter, and the laviſh ſpeaker,</l>
+                  <l>Proud ſelf conceit from whence the boaſting ſp<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </l>
+                  <l>And over-weening of our own good things,</l>
+                  <l>Unjuſt excuſes and diſſimulation</l>
+                  <l>Whereby to reap another's commendation.</l>
+                  <l>Striving for place, or fame to ſet us forth,</l>
+                  <l>And bearing of our ſelvs above our worth.</l>
+                  <l>High titles, buildings, ornaments, array</l>
+                  <l>Have born falſ witneſs often in a day:</l>
+                  <l>And ſo much meaner they that brave and flaun<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>So much the greater muſt the ſin bee granted.</l>
+                  <l>Another ſort of boaſters too there bee</l>
+                  <l>That do good works, but all for men to ſee,</l>
+                  <l>Som ſooner build a College from the ground,</l>
+                  <l>Then lend in ſecret one poor ſaint a pound,</l>
+                  <l>'Tis corban ſaid the Phariſee, well atchiev'd,</l>
+                  <l>And leav's his needy Parents unreliev'd.</l>
+                  <pb n="41" facs="tcp:172760:29"/>
+                  <l>But theſe good works proceeding from vain-glory</l>
+                  <l>Tell not the naked truth of half the ſtory:</l>
+                  <l>So much falſ witneſs do thoſe ſtructures bear</l>
+                  <l>Whoſe ſtately turrets popiſh pride doth rear.</l>
+                  <l>Yet the Pretenders that would pluck them down,</l>
+                  <l>And proud devotion in baſe avarice drown</l>
+                  <l>Have falſer conſcience, and a cauſe far worſ;</l>
+                  <l>Thoſe got ſom praiſ, but theſe procure a curſ,</l>
+                  <l>For ſuch hypocriſie and falſe pretence</l>
+                  <l>Is to bee cenſur'd falſer evidence.</l>
+                  <l>Others there are that tell a baſer lie,</l>
+                  <l>Having great wealth and pleading povertie:</l>
+                  <l>A ragged miſer idolizing pelf</l>
+                  <l>Both rob's, and bear's falſ witneſs of himſelf:</l>
+                  <l>Unmanlineſs, and whining for relief,</l>
+                  <l>When men by wiſdom ſhould bite in their grief.</l>
+                  <l>'Tis faulty others flattery to embrace,</l>
+                  <l>But worſ it is to do our ſelvs diſgrace;</l>
+                  <l>Sinfull is the diſcloſing of our wants,</l>
+                  <l>Or weakneſſes to carping ſycophants.</l>
+                  <l>Needleſs diſcloſing ſecrets breed's tranſgreſſion,</l>
+                  <l>And Popiſh-like, Auricular Confeſſion.</l>
+                  <l>Yet to keep Satan's counſel undiſclos'd</l>
+                  <l>(Wanting the skill whereby hee is oppos'd)</l>
+                  <l>Is to receiv falſ-witneſs, and conſpire</l>
+                  <l>Againſt the truth, to gratifie a lyar:</l>
+                  <l>Cauſleſs ſuſpicion alſo, and to labour</l>
+                  <l>To bring reproach upon our harmleſs neighbour,</l>
+                  <l>Of any man's infirmity to tell</l>
+                  <l>Unleſs a juſt neceſſity compell:</l>
+                  <l>Wanting affection to our neighbour's fame,</l>
+                  <l>Jeering and ſcorning breed no little blame:</l>
+                  <l>For contumelious ſpeech their good name tearing</l>
+                  <l>Is, with a witneſs, a falſ-witneſs-bearing,</l>
+                  <l>To think by caſting of their dirt ſo thick</l>
+                  <l>Som will light on, and ſom be ſure to ſtick:</l>
+                  <pb n="42" facs="tcp:172760:30"/>
+                  <l>But they that think the worſ for ſuch aſperſion</l>
+                  <l>Join with detractors to their own ſubverſion.</l>
+                  <l>Raſh cenſure's ſin, and libels of all ſorts,</l>
+                  <l>And giving ear to ſcandalous reports:</l>
+                  <l>Abuſive pictures, and the drunkards ſongs,</l>
+                  <l>And railing language of falſ pens or tongues.</l>
+                  <l>Deriding jeſts, not caring where wee hit</l>
+                  <l>With the unruly engine of our wit.</l>
+                  <l>Deriding geſtures, and hard ſpeeches too,</l>
+                  <l>Hoping to hurt, though ſpeaking he're ſo true.</l>
+                  <l>Renewing mention of our neighbour's faults</l>
+                  <l>Which time had buried in forgotten thoughts,</l>
+                  <l>Rejoycing his infirmities to ſee,</l>
+                  <l>Which to provoke is great iniquitie.</l>
+                  <l>To ſee one drunk's a ſhame at any time,</l>
+                  <l>But to make drunk is a moſt horrid crime;</l>
+                  <l>When Madman, drunkard, or a babbling fool</l>
+                  <l>Can make us ſport, it make's us break this rule:</l>
+                  <l>For how much ſin and ſhame on him reflect's</l>
+                  <l>That take's delight in other men's defects!</l>
+                  <l>But greater ſin and ſhame do none fall in</l>
+                  <l>Than they that boaſt, and glory in their ſin.</l>
+                  <l>'Tis ſin to violate a private ſeal,</l>
+                  <l>Or any truſted ſecrets to reveal.</l>
+                  <l>Talebearing, ſlandering, lying, miſrelating,</l>
+                  <l>Wrongfull accuſing and equivocating;</l>
+                  <l>Falſ evidence, forgery, and a wrongfull ſentence</l>
+                  <l>Are ſins that call for very much repentance:</l>
+                  <l>Yet all concealment cannot blame the tongue,</l>
+                  <l>But that Which ſom way tend's to other's wron<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Any falſ papers to ſubſcribe or ſign</l>
+                  <l>Make's us to violate this Law divine;</l>
+                  <l>Or, though the matter happily bee true,</l>
+                  <l>To give our teſt to what wee no way knew.</l>
+                  <l>To pay without plain witneſs, note, or book,</l>
+                  <l>Hazards falſ witneſs if it bee miſtook.</l>
+                  <pb n="43" facs="tcp:172760:30"/>
+                  <l>keep falſ records or accounts in ſtore</l>
+                  <l>peacheth truth, and break's this Law much more.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie's by hyperbole ſom ſcarce forbear,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d hee offend's that tell's a lie for fear,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> does't excuſe, but aggravate a lie,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſe it as a ſtale for piety:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut monſtrous lies, which men deviſe for ſport,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a more damnable and ſinfull ſort.</l>
+                  <l>Romancers, fortune-tellers, ballad-makers,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all the weathercock Prognoſticators</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for the moſt part lyars by profeſſion,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to defend it, double their tranſgreſſion.</l>
+                  <l>Compariſons are odious to reſent,</l>
+                  <l>I bear falſ-witneſs by diſparagement,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>efly when ſpite would caſt the righteous down,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om God exalt's with honor and renown.</l>
+                  <l>And there are faults too, on the other ſide,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cious lies, and perſons deifi'd</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th flattering complements of tongue or pen,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> giving too much honor unto men;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>retended miſſions too, and hereſies</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to be rank'd among the rankeſt lies:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s alſo do the ſimpler ſort offend</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eading books which Hereticks have pen'd,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>auſ there are no falſer witneſſes</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill the Chriſtian world then ſuch as theſe.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> may they read them that can well diſcern</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> make the ſimple ſolid truth to learn.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow much falſ-witneſs then falſ teachers bear,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they that hear them with an itching ear,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t as the Serpent once beguiled <hi>Eve</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h flattering ſpeech lie waiting to deceive:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> devil's pedlers under a diſguiſe</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k'd with a fardle of deluding lies.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="44" facs="tcp:172760:31"/>
+               <head>Duties <hi>and</hi> Treſpaſſes <hi>implied in the Tenth</hi> Commandment.</head>
+               <lg>
+                  <l>THe Duties of the laſt Commandement</l>
+                  <l>Are gratefull thoughts, and full of true con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>In all things to affect and keep a mean</l>
+                  <l>Our hearts thereby from fond deſires to wean</l>
+                  <l>Hoping in each condition to be bleſt,</l>
+                  <l>And thinking ſtill what God appoint's is beſt.</l>
+                  <l>A minde prepar'd to bear both good and ill,</l>
+                  <l>And bearing to our neighbours great good wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Mortification, quenching Sathan's darts,</l>
+                  <l>And from temptation turning eyes and hearts,</l>
+                  <l>Quelling each fond and fleſhly appetite</l>
+                  <l>By ſpiritual contemplation and delight.</l>
+                  <l>But here originall ſin is cenſurable</l>
+                  <l>As the ſpring-head againſt the ſecond table,</l>
+                  <l>And every vile uncharitable thing</l>
+                  <l>That iſſues from, or feed's this poys'nous ſprin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Vain thoughts, and contemplations, could we</l>
+                  <l>How wee would wed, and flouriſh, live and d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Build, plant, and proſper; things that can't bee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Nor, wee bee nearer when our thoughts are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Wiſhes, and worldly projects how to ſtore</l>
+                  <l>With worldly goods, and carry all before us.</l>
+                  <l>Such are laſcivious luſts, an evil eye,</l>
+                  <l>Ambition, avarice, greedy gluttony,</l>
+                  <l>O're-haſtie cares proceeding from diſtruſt,</l>
+                  <l>Repining envy, jealouſies unjuſt,</l>
+                  <l>Corrupt ſelf-love, raſh anger, diſcontent,</l>
+                  <l>Motions of ſin before the full conſent:</l>
+                  <l>Secret concupiſcence, and ſin's firſt riſing,</l>
+                  <l>Which may bee fitly term'd ſins tenebrizing.</l>
+                  <l>Som murmur that their body is diſeas'd,</l>
+                  <l>Som with their houſ and Calling are diſpleas'd</l>
+                  <pb n="45" facs="tcp:172760:31"/>
+                  <l>The loſs of chidren or a barren womb</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s the perpetuall diſcontent of ſom:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he teeming Rachel too ſollicitous</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sk's diſcontentedly why am I thus?</l>
+                  <l>Som corpulence offend's, or to be lean,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om thinking their eſtate too poor and mean,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om to bee undervalu'd, as they think,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om that their high eſtate begin's to ſink,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir charge o're-great, their yoke-fellow unfit,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir friends are loſt, their projects do not hit.</l>
+                  <l>Som deafneſs or deformity doth vex,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om hoary age, and ſom diſlike their ſex,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir wrongs or tryalls too extreme ſom judg,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ameneſs or blindeneſs make's ſom people grudg,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd ſom that their Inferiors, as they deem,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et place before them, or have more eſteem,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd then for want of grace and ſweet ſubmiſſion</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re ever wiſhing other men's condition:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f all ſuch ſinfull thoughts muſt thoſe beware</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat would of this Commandement have care.</l>
+                  <l>The Levelling Doctrine of Community</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hich doth all civil property deny,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd that which doth Authority confound</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Parity, this Level's with the ground,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecauſ the ſame a ſore infringement is</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f what our neighbour juſtly calleth his.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="breviary">
+            <pb facs="tcp:172760:32"/>
+            <head>THE BREVIARIE</head>
+            <lg>
+               <head>I Commandment.</head>
+               <l>
+                  <hi>MAke God thy Hope and Joy, truſt all hee ſ<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>For no Obedience like's him but of Faith.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>II Commandment.</head>
+               <l>
+                  <hi>Act alwaies, in Religion, every thing,</hi>
+               </l>
+               <l>
+                  <hi>By word and warrant from our heavenly King,</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>III Commandment.</head>
+               <l>
+                  <hi>THou maiſt bee ſhort in duty, never ſlight,</hi>
+               </l>
+               <l>
+                  <hi>Nor uſe a word of</hi> GOD <hi>that's vain or light.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>IV Commandment.</head>
+               <l>
+                  <hi>ON Sabbaths alwayes put thy ſoul to nurſ,</hi>
+               </l>
+               <l>
+                  <hi>Shun worldly thoughts, occaſions, and diſcourſ.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>V Commandment.</head>
+               <l>
+                  <hi>BEe ſure to carry well in thy Relation,</hi>
+               </l>
+               <l>
+                  <hi>For none are good without that commendation.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>VI Commandment.</head>
+               <l>
+                  <hi>BEe peacefull, ſober, kinde, ſhun wrath, and ſtri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>By all good means preſerv and ſuccour life.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>VII Commandment.</head>
+               <l>
+                  <hi>KEep Chaſtitie, all wantonneſs eſchew</hi>
+               </l>
+               <l>
+                  <hi>In touch, in talk, in hearing, heart, and view.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:172760:32"/>
+               <head>VIII Commandment.</head>
+               <l>
+                  <hi>SHun ſloth, and too much game, injustice hate,</hi>
+               </l>
+               <l>
+                  <hi>Maintain thy neighbour's and thine own estate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>IX. Commandment.</head>
+               <l>
+                  <hi>MAintain thy neighbour's and thine own good name,</hi>
+               </l>
+               <l>
+                  <hi>Scoffs, flatteries, ſlanders, lies and brags diſclaim.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>X. Commandment.</head>
+               <l>
+                  <hi>DIsband thy throng of thoughts, quell fond deſire,</hi>
+               </l>
+               <l>
+                  <hi>And let thy heart to true content aspire.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
